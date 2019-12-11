@@ -3,8 +3,8 @@
 这个仓库是为了秋招，记录刷题的
 目录`solutions`存储解题报告，`anki`存放制作的anki卡片
 
-|编号|题目|本地题解报告|
-|----|----|----|
+|编号|题目|本地题解报告|难度|
+|----|----|----|----|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)||
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)||
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)||
