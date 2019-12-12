@@ -18,6 +18,7 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[python](./solutions/11.md)|medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[python](./solutions/12.md)|medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[python](./solutions/13.md)|easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[python](./solutions/14.md)|easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|||
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|||
 |18|[4Sum](https://leetcode.com/problems/4sum/description/)|||
