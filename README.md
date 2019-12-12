@@ -11,12 +11,13 @@
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|||
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[python](./solutions/5.md)|medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[python](./solutions/6.md)|medium|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|||
-|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|||
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[python](./solutions/7.md)|easy|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[python](./solutions/8.md)|medium|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[python](./solutions/9.md)|easy|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|||
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|||
-|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|||
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|||
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[python](./solutions/11.md)|medium|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[python](./solutions/12.md)|medium|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[python](./solutions/13.md)|easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|||
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|||
 |18|[4Sum](https://leetcode.com/problems/4sum/description/)|||
