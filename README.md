@@ -20,6 +20,7 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[python](./solutions/13.md)|easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[python](./solutions/14.md)|easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|[python](./solutions/15.md)|medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[python](./solutions/16.md)|medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|||
 |18|[4Sum](https://leetcode.com/problems/4sum/description/)|||
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|||
