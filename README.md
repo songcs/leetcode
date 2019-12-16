@@ -3,7 +3,7 @@
 这个仓库是为了leetcode刷题用的
 目录`solutions`存储解题报告，`anki`存放制作的anki卡片
 
-|编号|题目|本地题解报告|难度|
+|leetcode编号|题目|本地题解报告|难度|
 |----|----|----|----|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[python](./solutions/1.md)|easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[python](./solutions/2.md)|medium|
@@ -38,7 +38,7 @@
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|||
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[python](./solutions/33.md)|medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[python](./solutions/34.md)|medium|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|||
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[python](./solutions/35.md) [cpp](./solutions/35.md)|easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|||
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)|||
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|||
