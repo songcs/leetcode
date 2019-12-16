@@ -1,6 +1,6 @@
 # Description
 
-这个仓库是为了秋招，记录刷题的
+这个仓库是为了leetcode刷题用的
 目录`solutions`存储解题报告，`anki`存放制作的anki卡片
 
 |编号|题目|本地题解报告|难度|
@@ -32,7 +32,7 @@
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[python](./solutions/25.md)|hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[python](./solutions/26.md)|easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[python](./solutions/27.md)|easy|
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|||
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[python](./solutions/28.md)|easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|||
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|||
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|||
