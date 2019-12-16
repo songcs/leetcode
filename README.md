@@ -29,6 +29,7 @@
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[python](./solutions/22.md)|medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|||
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[python](./solutions/24.md)|mediun|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[python](./solutions/25.md)|mediun|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|||
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|||
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|||
