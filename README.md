@@ -46,7 +46,7 @@
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[python](./solutions/40.md)|medium|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)||hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[python](./solutions/42.md)|hard|
-|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|||
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[python](./solutions/43.md)|medium|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|||
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|||
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)|||
