@@ -44,8 +44,8 @@
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[python](./solutions/38.md)|easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[python](./solutions/39.md)|medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[python](./solutions/40.md)|medium|
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[python](./solutions/41.md)|hard|
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|||
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)||hard|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[python](./solutions/42.md)|hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|||
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|||
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|||
