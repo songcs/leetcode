@@ -62,7 +62,7 @@
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[python](./solutions/56.md)|medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|||
 |57|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[python](./solutions/58.md)|easy|
-|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|||
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[python](./solutions/59.md)|medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|||
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|||
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|||
