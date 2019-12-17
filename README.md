@@ -50,7 +50,7 @@
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|||
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|||
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)|[python](./solutions/46.md)|medium|
-|47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|||
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[python](./solutions/47.md)|medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[python](./solutions/48.md)|medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|||
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|||
