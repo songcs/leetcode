@@ -58,7 +58,7 @@
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[python](./solutions/53.md)|easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[python](./solutions/54.md)|medium|
-|55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|||
+|55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[python](./solutions/55.md)|medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|||
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|||
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|||
