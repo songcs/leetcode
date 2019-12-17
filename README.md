@@ -65,7 +65,6 @@
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[python](./solutions/59.md)|medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|||
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[python](./solutions/61.md)|medium|
-
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[python](./solutions/62.md)|medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[python](./solutions/63.md)|medium|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|||
