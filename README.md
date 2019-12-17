@@ -66,7 +66,7 @@
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|||
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[python](./solutions/61.md)|medium|
 
-|62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|||
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[python](./solutions/62.md)|medium|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|||
 |65|[Valid Number](https://leetcode.com/problems/valid-number/description/)|||
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|||
