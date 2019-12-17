@@ -39,7 +39,7 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[python](./solutions/33.md)|medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[python](./solutions/34.md)|medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[python](./solutions/35.md) [cpp](./solutions/35.md)|easy|
-|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|||
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[python](./solutions/36.md)|medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)|||
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|||
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|||
