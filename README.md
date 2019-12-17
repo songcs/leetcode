@@ -41,7 +41,7 @@
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[python](./solutions/35.md) [cpp](./solutions/35.md)|easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[python](./solutions/36.md)|medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)|||
-|38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|||
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[python](./solutions/38.md)|easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|||
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|||
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|||
