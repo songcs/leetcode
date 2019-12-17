@@ -64,6 +64,8 @@
 |57|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[python](./solutions/58.md)|easy|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[python](./solutions/59.md)|medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|||
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[python](./solutions/61.md)|medium|
+
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|||
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|||
 |65|[Valid Number](https://leetcode.com/problems/valid-number/description/)|||
