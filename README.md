@@ -56,7 +56,7 @@
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[python](./solutions/50.md)|medium|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|||
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|||
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|||
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[python](./solutions/53.md)|easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|||
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|||
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|||
