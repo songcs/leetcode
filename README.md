@@ -21,15 +21,15 @@
 ### 数组
 
 #### *二分查找*
-|leetcode编号|题目|本地题解报告|难度|
+|来源|题目|本地题解报告|难度|
 |----|----|----|----|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[python](./solutions/35.md) [cpp](./solutions/35.md)|easy|
+|lc:35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[python](./solutions/35.md) [cpp](./solutions/35.md)|easy|
 |牛客网|[旋转数组的最小数字](https://www.nowcoder.com/practice/9f3231a991af4f55b95579b44b7a01ba?tpId=13&tqId=11159&tPage=1&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)|||
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[python](./solutions/33.md)|medium|
-|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
+|lc:33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[python](./solutions/33.md)|medium|
+|lc:81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
 |lc未找到|有序数组中查找数字的范围|||
-|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[python](./solutions/4.md)|hard|
+|lc:162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
+|lc:4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[python](./solutions/4.md)|hard|
 ||[缺失的数字](https://github.com/arkingc/note/blob/master/数据结构与算法/算法题总结.md#缺失的数字)|||
 ||[数组中数值和下标相等的元素](https://github.com/arkingc/note/blob/master/数据结构与算法/算法题总结.md#数组中数值和下标相等的元素)|||
 
