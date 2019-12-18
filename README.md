@@ -74,7 +74,7 @@
 |68|[Text Justification](https://leetcode.com/problems/text-justification/description/)|||
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[python](./solutions/69.md)|easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[python](./solutions/70.md)|easy|
-|71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|||
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|[python](.solutions/71.md)|medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/description/)|||
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|||
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|||
