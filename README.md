@@ -40,9 +40,8 @@
 |lc:41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[python](./solutions/41.md)|hard|
 |lc:287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[python](./solutions/287.md)|medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
 
-
-  + Leetcode136：[只出现1次的数字](#只出现1次的数字)（`位运算` `easy`）
   + 《剑指offer》面试题56(题目一)：[数组中只出现1次的2个数](#数组中只出现1次的2个数)（`位运算`）
   + 《剑指offer》面试题56(题目二)：[数组中唯一只出现1次的数字](#数组中唯一只出现1次的数字)（`位运算`）
   + 《剑指offer》面试题41：[数据流的中位数](#数据流的中位数)（`堆`）
@@ -453,6 +452,7 @@
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)|||
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|||
 |134|[Gas Station](https://leetcode.com/problems/gas-station/description/)|||
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|||
 |139|[Word Break](https://leetcode.com/problems/word-break/)|||
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/description/)|||
