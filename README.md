@@ -35,6 +35,10 @@
 ||[数组中数值和下标相等的元素](https://github.com/arkingc/note/blob/master/数据结构与算法/算法题总结.md#数组中数值和下标相等的元素)|||
 
 #### *其它查找*
+|来源|题目|本地题解报告|难度|
+|----|----|----|----|
+|lc:41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[python](./solutions/41.md)|hard|
+
   + Leetcode41：[缺失的第一个正数](#缺失的第一个正数)（`交换` `hard`）
   + Leetcode287：[寻找数组中重复的数](#寻找数组中重复的数)（`二分查找` `链表` `medium`）
   + Leetcode268：[0~n中缺失的数字](#0n中缺失的数字)（`位运算` `easy`）
@@ -379,7 +383,7 @@
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[python](./solutions/38.md)|easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[python](./solutions/39.md)|medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[python](./solutions/40.md)|medium|
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)||hard|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[python](./solutions/41.md)|hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[python](./solutions/42.md)|hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[python](./solutions/43.md)|medium|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|||
