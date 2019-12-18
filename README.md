@@ -5,7 +5,7 @@
 
 # 目录
 - [分类刷题](#分类刷题)
-- [全部](#leetcode)
+- [leetcode汇总](#leetcode)
 
 
 # 题目
@@ -41,8 +41,8 @@
 |lc:287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[python](./solutions/287.md)|medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
+|nowcoder:《剑指offer》|[数组中只出现1次的2个数](https://www.nowcoder.com/practice/e02fdb54d7524710a7d664d082bb7811?tpId=13&tqId=11193&tPage=2&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)|[python](./nowcoder/数组中只出现一次的两个数.md)||
 
-  + 《剑指offer》面试题56(题目一)：[数组中只出现1次的2个数](#数组中只出现1次的2个数)（`位运算`）
   + 《剑指offer》面试题56(题目二)：[数组中唯一只出现1次的数字](#数组中唯一只出现1次的数字)（`位运算`）
   + 《剑指offer》面试题41：[数据流的中位数](#数据流的中位数)（`堆`）
   + 《剑指offer》面试题57(题目一)：[和为s的两个数字](#和为s的两个数字)（`双指针`）
