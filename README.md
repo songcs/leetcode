@@ -5,10 +5,10 @@
 
 |一|二|
 |:--:|:--:|
-|[分类刷题](#分类)|[全部](#leetcode)
+|[分类刷题](#分类刷题)|[全部](#leetcode)
 
 
-## 分类
+## 分类刷题
 
 > 此分类来自于[链接](https://github.com/arkingc/note/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 > 正在改造为自己习惯的格式，如果题目不是处于表格中，则说明未改造完成，里面的链接不可用
@@ -21,10 +21,13 @@
 ### 数组
 
 #### *二分查找*
-+ Leetcode35：[查找插入位置](#查找插入位置)（`二分查找` `easy`）
-+ 《剑指offer》面试题11：[旋转数组的最小数字](#旋转数组的最小数字)（`二分查找`）
-+ Leetcode33：[旋转数组中查找数字](#旋转数组中查找数字)（`二分查找` `medium`）
-+ Leetcode81：[旋转数组中查找数字II](#旋转数组中查找数字ii)（`二分查找` `medium`）
+|leetcode编号|题目|本地题解报告|难度|
+|----|----|----|----|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[python](./solutions/35.md) [cpp](./solutions/35.md)|easy|
+|牛客网|[旋转数组的最小数字](https://www.nowcoder.com/practice/9f3231a991af4f55b95579b44b7a01ba?tpId=13&tqId=11159&tPage=1&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)|||
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[python](./solutions/33.md)|medium|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
+
 + 《剑指offer》面试题53(题目一)：[有序数组中查找数字的范围](#有序数组中查找数字的范围)（`二分查找`）
 + 《剑指offer》面试题53(题目二)：[缺失的数字](#缺失的数字)（`二分查找`）
 + 《剑指offer》面试题53(题目三)：[数组中数值和下标相等的元素](#数组中数值和下标相等的元素)（`二分查找`）
@@ -415,7 +418,7 @@
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)|[python](./solutions/78.md)|medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|||
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|||
-|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|||
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|||
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|||
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)|||
