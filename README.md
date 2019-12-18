@@ -29,10 +29,12 @@
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
 |lc未找到|有序数组中查找数字的范围|||
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[python](./solutions/4.md)|hard|
+
 
 + 《剑指offer》面试题53(题目二)：[缺失的数字](#缺失的数字)（`二分查找`）
 + 《剑指offer》面试题53(题目三)：[数组中数值和下标相等的元素](#数组中数值和下标相等的元素)（`二分查找`）
-+ Leetcode4：[两个排序数组的中值](#两个排序数组的中值)（`二分查找` `hard`）
+
 #### *其它查找*
   + Leetcode41：[缺失的第一个正数](#缺失的第一个正数)（`交换` `hard`）
   + Leetcode287：[寻找数组中重复的数](#寻找数组中重复的数)（`二分查找` `链表` `medium`）
@@ -342,7 +344,7 @@
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[python](./solutions/1.md)|easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[python](./solutions/2.md)|medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[python](./solutions/3.md)|medium|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|||
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[python](./solutions/4.md)|hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[python](./solutions/5.md)|medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[python](./solutions/6.md)|medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[python](./solutions/7.md)|easy|
