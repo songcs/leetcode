@@ -30,10 +30,8 @@
 |lc未找到|有序数组中查找数字的范围|||
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[python](./solutions/4.md)|hard|
-
-
-+ 《剑指offer》面试题53(题目二)：[缺失的数字](#缺失的数字)（`二分查找`）
-+ 《剑指offer》面试题53(题目三)：[数组中数值和下标相等的元素](#数组中数值和下标相等的元素)（`二分查找`）
+||[缺失的数字](https://github.com/arkingc/note/blob/master/数据结构与算法/算法题总结.md#缺失的数字)|||
+||[数组中数值和下标相等的元素](https://github.com/arkingc/note/blob/master/数据结构与算法/算法题总结.md#数组中数值和下标相等的元素)|||
 
 #### *其它查找*
   + Leetcode41：[缺失的第一个正数](#缺失的第一个正数)（`交换` `hard`）
