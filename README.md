@@ -38,9 +38,8 @@
 |来源|题目|本地题解报告|难度|
 |----|----|----|----|
 |lc:41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[python](./solutions/41.md)|hard|
+|lc:287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[python](./solutions/287.md)|medium|
 
-  + Leetcode41：[缺失的第一个正数](#缺失的第一个正数)（`交换` `hard`）
-  + Leetcode287：[寻找数组中重复的数](#寻找数组中重复的数)（`二分查找` `链表` `medium`）
   + Leetcode268：[0~n中缺失的数字](#0n中缺失的数字)（`位运算` `easy`）
   + Leetcode136：[只出现1次的数字](#只出现1次的数字)（`位运算` `easy`）
   + 《剑指offer》面试题56(题目一)：[数组中只出现1次的2个数](#数组中只出现1次的2个数)（`位运算`）
@@ -543,7 +542,7 @@
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/)|||
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/)|||
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/)|||
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|||
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[python](./solutions/287.md)|medium|
 |288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/description/)|||
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/description/)|||
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/)|||
