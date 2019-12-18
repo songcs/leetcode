@@ -3,11 +3,12 @@
 这个仓库是为了leetcode刷题用的
 目录`solutions`存储解题报告，`anki`存放制作的anki卡片
 
-|一|二|
-|:--:|:--:|
-|[分类刷题](#分类刷题)|[全部](#leetcode)
+# 目录
+- [分类刷题](#分类刷题)
+- [全部](#leetcode)
 
 
+# 题目
 ## 分类刷题
 
 > 此分类来自于[链接](https://github.com/arkingc/note/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
