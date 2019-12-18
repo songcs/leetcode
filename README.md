@@ -39,8 +39,9 @@
 |----|----|----|----|
 |lc:41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[python](./solutions/41.md)|hard|
 |lc:287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[python](./solutions/287.md)|medium|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
 
-  + Leetcode268：[0~n中缺失的数字](#0n中缺失的数字)（`位运算` `easy`）
+
   + Leetcode136：[只出现1次的数字](#只出现1次的数字)（`位运算` `easy`）
   + 《剑指offer》面试题56(题目一)：[数组中只出现1次的2个数](#数组中只出现1次的2个数)（`位运算`）
   + 《剑指offer》面试题56(题目二)：[数组中唯一只出现1次的数字](#数组中唯一只出现1次的数字)（`位运算`）
@@ -525,7 +526,7 @@
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|||
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)|||
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/description/)|||
-|268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|||
+|268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
 |269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/)|||
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/)|||
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/)|||
