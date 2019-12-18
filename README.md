@@ -67,12 +67,12 @@
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[python](./solutions/61.md)|medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[python](./solutions/62.md)|medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[python](./solutions/63.md)|medium|
-|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|||
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[python](./solutions/64.md)|medium|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/description/)|||
-|66|[Plus One](https://leetcode.com/problems/plus-one/description/)|||
+|66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[python](./solutions/66.md)|easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|||
 |68|[Text Justification](https://leetcode.com/problems/text-justification/description/)|||
-|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|||
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[python](./solutions/69.md)|medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|||
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|||
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/description/)|||
