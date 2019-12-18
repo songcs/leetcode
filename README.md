@@ -27,11 +27,11 @@
 |牛客网|[旋转数组的最小数字](https://www.nowcoder.com/practice/9f3231a991af4f55b95579b44b7a01ba?tpId=13&tqId=11159&tPage=1&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)|||
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[python](./solutions/33.md)|medium|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
+|lc未找到|有序数组中查找数字的范围|||
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
 
-+ 《剑指offer》面试题53(题目一)：[有序数组中查找数字的范围](#有序数组中查找数字的范围)（`二分查找`）
 + 《剑指offer》面试题53(题目二)：[缺失的数字](#缺失的数字)（`二分查找`）
 + 《剑指offer》面试题53(题目三)：[数组中数值和下标相等的元素](#数组中数值和下标相等的元素)（`二分查找`）
-+ Leetcode162：[查找数组中任一峰值的下标](#查找数组中任一峰值的下标)（`二分查找` `medium`）
 + Leetcode4：[两个排序数组的中值](#两个排序数组的中值)（`二分查找` `hard`）
 #### *其它查找*
   + Leetcode41：[缺失的第一个正数](#缺失的第一个正数)（`交换` `hard`）
@@ -462,7 +462,7 @@
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/)|||
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/)|||
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|||
-|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|||
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/)|||
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)|||
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)|||
