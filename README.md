@@ -44,9 +44,9 @@
 |nowcoder:《剑指offer》|[数组中只出现1次的2个数](https://www.nowcoder.com/practice/e02fdb54d7524710a7d664d082bb7811?tpId=13&tqId=11193&tPage=2&rp=2&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)|[python](./nowcoder/数组中只出现一次的两个数.md)||
 |《剑指offer》面试题56|数组中唯一只出现1次的数字|||
 |《剑指offer》面试题41|[数据流的中位数](https://www.nowcoder.com/practice/9be0172896bd43948f8a32fb954e1be1?tpId=13&tqId=11216&tPage=4&rp=3&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)|[cpp](./nowcoder/数据流的中位数.md)||
+|剑指offer》面试题57|[和为s的两个数字](https://www.nowcoder.com/practice/390da4f7a00f44bea7c2f3d19491311b?tpId=13&tqId=11195&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)|||
+|剑指offer》面试题57|[和为s的连续正数序列](https://www.nowcoder.com/practice/c451a3fd84b64cb19485dad758a55ebe?tpId=13&tqId=11194&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)|[python](./nowcoder/和为S的连续正数序列.md)||
 
-  + 《剑指offer》面试题57(题目一)：[和为s的两个数字](#和为s的两个数字)（`双指针`）
-  + 《剑指offer》面试题57(题目二)：[和为s的连续正数序列](#和为s的连续正数序列)（`双指针`）
   + Leetcode217：[判断数组是否包含重复元素](#判断数组是否包含重复元素)（`哈希表` `easy`）
   + Leetcode1：[两数之和](#两数之和)（`哈希表` `easy`）
   + Leetcode15：[三数之和](#三数之和)（`排序` `双指针` `medium`）
