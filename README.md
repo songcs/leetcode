@@ -72,8 +72,8 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[python](./solutions/66.md)|easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|||
 |68|[Text Justification](https://leetcode.com/problems/text-justification/description/)|||
-|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[python](./solutions/69.md)|medium|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|||
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[python](./solutions/69.md)|easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[python](./solutions/70.md)|easy|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|||
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/description/)|||
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|||
