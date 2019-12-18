@@ -80,7 +80,7 @@
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[python](./solutions/74.md)|medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[python](./solutions/75.md)|medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|||
-|77|[Combinations](https://leetcode.com/problems/combinations/description/)|||
+|77|[Combinations](https://leetcode.com/problems/combinations/description/)|[python](./solutions/77.md)|medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)|||
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|||
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|||
