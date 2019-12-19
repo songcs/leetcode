@@ -47,11 +47,11 @@
 |《剑指offer》面试题57|[和为s的两个数字](https://www.nowcoder.com/practice/390da4f7a00f44bea7c2f3d19491311b?tpId=13&tqId=11195&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)|||
 |《剑指offer》面试题57|[和为s的连续正数序列](https://www.nowcoder.com/practice/c451a3fd84b64cb19485dad758a55ebe?tpId=13&tqId=11194&tPage=3&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)|[python](./nowcoder/和为S的连续正数序列.md)||
 |lc:217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[python](./solutions/1.md)|easy|
-|15|[3Sum](https://leetcode.com/problems/3sum/description/)|[python](./solutions/15.md)|medium|
-|18|[4Sum](https://leetcode.com/problems/4sum/description/)|[python](./solutions/18.md)|medium|
+|lc:1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[python](./solutions/1.md)|easy|
+|lc:15|[3Sum](https://leetcode.com/problems/3sum/description/)|[python](./solutions/15.md)|medium|
+|lc:18|[4Sum](https://leetcode.com/problems/4sum/description/)|[python](./solutions/18.md)|medium|
+|454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
 
-  + Leetcode454：[四数之和II](#四数之和ii)（`哈希表` `medium`）
   + 《剑指offer》面试题39：[数组中出现次数超过一半的数字](#数组中出现次数超过一半的数字)（`partition`）
   + 《剑指offer》面试题40：[数组中最小的k个数](#数组中最小的k个数)（`partition` `海量数据`）
   + Leetcode347：[出现频率最高的k个数字](#出现频率最高的k个数字)（`medium`）
@@ -428,3 +428,4 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[python](./solutions/287.md)|medium|
+|454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
