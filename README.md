@@ -51,10 +51,10 @@
 |lc:15|[3Sum](https://leetcode.com/problems/3sum/description/)|[python](./solutions/15.md)|medium|
 |lc:18|[4Sum](https://leetcode.com/problems/4sum/description/)|[python](./solutions/18.md)|medium|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
+|《剑指offer》面试题39|数组中出现次数超过一半的数字|||
+|《剑指offer》面试题40|数组中最小的k个数|||
+|lc:347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[python](./solutions/347.md)|medium|
 
-  + 《剑指offer》面试题39：[数组中出现次数超过一半的数字](#数组中出现次数超过一半的数字)（`partition`）
-  + 《剑指offer》面试题40：[数组中最小的k个数](#数组中最小的k个数)（`partition` `海量数据`）
-  + Leetcode347：[出现频率最高的k个数字](#出现频率最高的k个数字)（`medium`）
   + Leetcode350：[两个数组的交集II](#两个数组的交集ii)（`easy`）
 #### *数组操作*
 + Leetcode26：[删除排序数组中的重复项](#删除排序数组中的重复项)（`双指针` `easy`）
@@ -428,4 +428,5 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[python](./solutions/287.md)|medium|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[python](./solutions/347.md)|medium|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
