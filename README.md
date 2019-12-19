@@ -69,9 +69,8 @@
 |----|----|----|----|
 |《剑指offer》面试题42|连续子数组的最大和|||
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[python](./solutions/128.md)|hard|
 
-
-  + Leetcode128：[最长连续序列](#最长连续序列)（`哈希表` `hard`）
   + Leetcode300：[最长升序子序列](#最长升序子序列)（`动态规划` `medium`）
   + Leetcode334：[数组的三元升序子序列](#数组的三元升序子序列)（`medium`）
 #### *排列组合*
@@ -430,6 +429,7 @@
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|||
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|||
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[python](./solutions/128.md)|hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
