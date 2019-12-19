@@ -70,8 +70,8 @@
 |《剑指offer》面试题42|连续子数组的最大和|||
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[python](./solutions/128.md)|hard|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[python](./solutions/300.md)|medium|
 
-  + Leetcode300：[最长升序子序列](#最长升序子序列)（`动态规划` `medium`）
   + Leetcode334：[数组的三元升序子序列](#数组的三元升序子序列)（`medium`）
 #### *排列组合*
   + 《剑指offer》面试题38(相关题一)：[正方体顶点上放数字](#正方体顶点上放数字)（`全排列`）
@@ -438,6 +438,7 @@
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./solutions/283.md)|easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[python](./solutions/287.md)|medium|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[python](./solutions/300.md)|medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[python](./solutions/347.md)|medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[python](./solutions/350.md)|easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
