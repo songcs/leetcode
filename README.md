@@ -59,14 +59,18 @@
 #### *数组操作*
 |来源|题目|本地题解报告|难度|
 |----|----|----|----|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[python](./solutions/26.md)|easy|
-|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[python](./solutions/27.md)|easy|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[python](./solutions/189.md)|easy|
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./solutions/283.md)|easy|
+|lc:26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[python](./solutions/26.md)|easy|
+|lc:27|[Remove Element](https://leetcode.com/problems/remove-element/)|[python](./solutions/27.md)|easy|
+|lc:189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[python](./solutions/189.md)|easy|
+|lc:283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./solutions/283.md)|easy|
 
 #### *子数组与连续子数组*
-  + 《剑指offer》面试题42：[连续子数组的最大和](#连续子数组的最大和)（`动态规划`）
-  + Leetcode152：[连续子数组的最大积](#连续子数组的最大积)（`动态规划` `medium`）
+|来源|题目|本地题解报告|难度|
+|----|----|----|----|
+|《剑指offer》面试题42|连续子数组的最大和|||
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
+
+
   + Leetcode128：[最长连续序列](#最长连续序列)（`哈希表` `hard`）
   + Leetcode300：[最长升序子序列](#最长升序子序列)（`动态规划` `medium`）
   + Leetcode334：[数组的三元升序子序列](#数组的三元升序子序列)（`medium`）
@@ -427,6 +431,7 @@
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|||
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[python](./solutions/189.md)|easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
