@@ -62,8 +62,8 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[python](./solutions/26.md)|easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[python](./solutions/27.md)|easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[python](./solutions/189.md)|easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./solutions/283.md)|easy|
 
-+ Leetcode283：[将数组中的零移到尾部](#将数组中的零移到尾部)（`easy`）
 #### *子数组与连续子数组*
   + 《剑指offer》面试题42：[连续子数组的最大和](#连续子数组的最大和)（`动态规划`）
   + Leetcode152：[连续子数组的最大积](#连续子数组的最大积)（`动态规划` `medium`）
@@ -431,6 +431,7 @@
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[python](./solutions/189.md)|easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./solutions/283.md)|easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[python](./solutions/287.md)|medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[python](./solutions/347.md)|medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[python](./solutions/350.md)|easy|
