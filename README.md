@@ -57,9 +57,12 @@
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[python](./solutions/350.md)|easy|
 
 #### *数组操作*
-+ Leetcode26：[删除排序数组中的重复项](#删除排序数组中的重复项)（`双指针` `easy`）
-+ Leetcode27：[删除数组中值为val的元素](#删除数组中值为val的元素)（`双指针` `easy`）
-+ Leetcode189：[旋转数组](#旋转数组)（`easy`）
+|来源|题目|本地题解报告|难度|
+|----|----|----|----|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[python](./solutions/26.md)|easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[python](./solutions/27.md)|easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[python](./solutions/189.md)|easy|
+
 + Leetcode283：[将数组中的零移到尾部](#将数组中的零移到尾部)（`easy`）
 #### *子数组与连续子数组*
   + 《剑指offer》面试题42：[连续子数组的最大和](#连续子数组的最大和)（`动态规划`）
@@ -425,6 +428,7 @@
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[python](./solutions/189.md)|easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[python](./solutions/287.md)|medium|
