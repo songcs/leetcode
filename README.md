@@ -87,9 +87,9 @@
 |77|[Combinations](https://leetcode.com/problems/combinations/description/)|[python](./solutions/77.md)|medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)|[python](./solutions/78.md)|medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[python](./solutions/90.md)|medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[python](./solutions/39.md)|medium|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[python](./solutions/40.md)|medium|
 
-  + Leetcode39：[和为target的数字组合](#和为target的数字组合)（`组合` `medium`）
-  + Leetcode40：[和为target的数字组合II](#和为target的数字组合ii)（`组合` `medium`）
 #### *排序*
 + 《剑指offer》面试题21：[调整数组顺序使奇数位于偶数前面](#调整数组顺序使奇数位于偶数前面)（`partition`)
 + 《剑指offer》面试题61：[扑克牌中的顺子](#扑克牌中的顺子)
