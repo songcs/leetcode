@@ -80,10 +80,9 @@
 |《剑指offer》面试题38(相关题二)|八皇后|||
 |lc:52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|[python](./solutions/52.md)|hard|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[python](./solutions/51.md)|hard|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[python](./solutions/31.md)|medium|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|[python](./solutions/60.md)|medium|
 
-
-  + Leetcode31：[下一个排列](#下一个排列)（`排列` `medium`）
-  + Leetcode60：[第K个排列](#第k个排列)（`排列` `medium`）
   + Leetcode46：[不含重复元素数组的全排列](#不含重复元素数组的全排列)（`全排列` `medium`）
   + Leetcode47：[含重复元素数组的全排列](#含重复元素数组的全排列)（`全排列` `medium`）
   + Leetcode77：[1~n中所有k个数的组合](#1n中所有k个数的组合)（`组合` `medium`）
@@ -411,7 +410,7 @@
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|||
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[python](./solutions/58.md)|easy|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[python](./solutions/59.md)|medium|
-|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|||
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|[python](./solutions/60.md)|medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[python](./solutions/61.md)|medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[python](./solutions/62.md)|medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[python](./solutions/63.md)|medium|
