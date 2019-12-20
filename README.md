@@ -79,9 +79,9 @@
 |《剑指offer》面试题38(相关题一)|正方体顶点上放数字|||
 |《剑指offer》面试题38(相关题二)|八皇后|||
 |lc:52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|[python](./solutions/52.md)|hard|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[python](./solutions/51.md)|hard|
 
-  + Leetcode52：[N皇后II](#n皇后ii)（`全排列` `hard`）
-  + Leetcode51：[N皇后](#n皇后)（`全排列` `hard`）
+
   + Leetcode31：[下一个排列](#下一个排列)（`排列` `medium`）
   + Leetcode60：[第K个排列](#第k个排列)（`排列` `medium`）
   + Leetcode46：[不含重复元素数组的全排列](#不含重复元素数组的全排列)（`全排列` `medium`）
@@ -402,7 +402,7 @@
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[python](./solutions/48.md)|medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[python](./solutions/49.md)|medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[python](./solutions/50.md)|medium|
-|51|[N-Queens](https://leetcode.com/problems/n-queens/)|||
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[python](./solutions/51.md)|hard|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|[python](./solutions/52.md)|hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[python](./solutions/53.md)|easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[python](./solutions/54.md)|medium|
