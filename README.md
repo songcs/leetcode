@@ -79,16 +79,16 @@
 |《剑指offer》面试题38(相关题一)|正方体顶点上放数字|||
 |《剑指offer》面试题38(相关题二)|八皇后|||
 |lc:52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|[python](./solutions/52.md)|hard|
-|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[python](./solutions/51.md)|hard|
-|31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[python](./solutions/31.md)|medium|
-|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|[python](./solutions/60.md)|medium|
-|46|[Permutations](https://leetcode.com/problems/permutations/description/)|[python](./solutions/46.md)|medium|
-|47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[python](./solutions/47.md)|medium|
-|77|[Combinations](https://leetcode.com/problems/combinations/description/)|[python](./solutions/77.md)|medium|
-|78|[Subsets](https://leetcode.com/problems/subsets/description/)|[python](./solutions/78.md)|medium|
-|90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[python](./solutions/90.md)|medium|
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[python](./solutions/39.md)|medium|
-|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[python](./solutions/40.md)|medium|
+|lc:51|[N-Queens](https://leetcode.com/problems/n-queens/)|[python](./solutions/51.md)|hard|
+|lc:31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[python](./solutions/31.md)|medium|
+|lc:60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|[python](./solutions/60.md)|medium|
+|lc:46|[Permutations](https://leetcode.com/problems/permutations/description/)|[python](./solutions/46.md)|medium|
+|lc:47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[python](./solutions/47.md)|medium|
+|lc:77|[Combinations](https://leetcode.com/problems/combinations/description/)|[python](./solutions/77.md)|medium|
+|lc:78|[Subsets](https://leetcode.com/problems/subsets/description/)|[python](./solutions/78.md)|medium|
+|lc:90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[python](./solutions/90.md)|medium|
+|lc:39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[python](./solutions/39.md)|medium|
+|lc:40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[python](./solutions/40.md)|medium|
 
 #### *排序*
 + 《剑指offer》面试题21：[调整数组顺序使奇数位于偶数前面](#调整数组顺序使奇数位于偶数前面)（`partition`)
