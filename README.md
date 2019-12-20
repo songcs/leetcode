@@ -91,10 +91,13 @@
 |lc:40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[python](./solutions/40.md)|medium|
 
 #### *排序*
-+ 《剑指offer》面试题21：[调整数组顺序使奇数位于偶数前面](#调整数组顺序使奇数位于偶数前面)（`partition`)
-+ 《剑指offer》面试题61：[扑克牌中的顺子](#扑克牌中的顺子)
-+ Leetcode75：[颜色分类](#颜色分类)（`medium`）
-+ Leetcode179：[将一组数拼接成最大数字](#将一组数拼接成最大数字)（`medium`）
+|来源|题目|本地题解报告|难度|
+|----|----|----|----|
+|《剑指offer》面试题21|调整数组顺序使奇数位于偶数前面|||
+|《剑指offer》面试题61|扑克牌中的顺子|||
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[python](./solutions/75.md)|medium|
+|179|[Largest Number](https://leetcode.com/problems/largest-number/)|[cpp](./solutions/179.md)[python2](./solutions/179.md)|medium|
+
 + Leetcode88：[合并两个有序数组](#合并两个有序数组)（`归并` `easy`）
 + 《剑指offer》面试题51：[数组中的逆序对](#数组中的逆序对)（`归并`）
 + Leetcode315：[计算右侧小于当前元素的个数](#计算右侧小于当前元素的个数)（`归并` `BST` `hard`）
@@ -437,6 +440,7 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
+|179|[Largest Number](https://leetcode.com/problems/largest-number/)|[cpp](./solutions/179.md)[python2](./solutions/179.md)|medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[python](./solutions/189.md)|easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
