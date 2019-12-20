@@ -74,8 +74,12 @@
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[python](./solutions/334.md)|medium|
 
 #### *排列组合*
-  + 《剑指offer》面试题38(相关题一)：[正方体顶点上放数字](#正方体顶点上放数字)（`全排列`）
-  + 《剑指offer》面试题38(相关题二)：[八皇后](#八皇后)（`全排列`）
+|来源|题目|本地题解报告|难度|
+|----|----|----|----|
+|《剑指offer》面试题38(相关题一)|正方体顶点上放数字|||
+|《剑指offer》面试题38(相关题二)|八皇后|||
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|[python](./solutions/52.md)|hard|
+
   + Leetcode52：[N皇后II](#n皇后ii)（`全排列` `hard`）
   + Leetcode51：[N皇后](#n皇后)（`全排列` `hard`）
   + Leetcode31：[下一个排列](#下一个排列)（`排列` `medium`）
@@ -399,7 +403,7 @@
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[python](./solutions/49.md)|medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[python](./solutions/50.md)|medium|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|||
-|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|||
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|[python](./solutions/52.md)|hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[python](./solutions/53.md)|easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[python](./solutions/54.md)|medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[python](./solutions/55.md)|medium|
