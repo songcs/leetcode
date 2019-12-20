@@ -68,17 +68,17 @@
 |来源|题目|本地题解报告|难度|
 |----|----|----|----|
 |《剑指offer》面试题42|连续子数组的最大和|||
-|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
-|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[python](./solutions/128.md)|hard|
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[python](./solutions/300.md)|medium|
-|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[python](./solutions/334.md)|medium|
+|lc:152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
+|lc:128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[python](./solutions/128.md)|hard|
+|lc:300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[python](./solutions/300.md)|medium|
+|lc:334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[python](./solutions/334.md)|medium|
 
 #### *排列组合*
 |来源|题目|本地题解报告|难度|
 |----|----|----|----|
 |《剑指offer》面试题38(相关题一)|正方体顶点上放数字|||
 |《剑指offer》面试题38(相关题二)|八皇后|||
-|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|[python](./solutions/52.md)|hard|
+|lc:52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|[python](./solutions/52.md)|hard|
 
   + Leetcode52：[N皇后II](#n皇后ii)（`全排列` `hard`）
   + Leetcode51：[N皇后](#n皇后)（`全排列` `hard`）
