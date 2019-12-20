@@ -82,12 +82,12 @@
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[python](./solutions/51.md)|hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[python](./solutions/31.md)|medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|[python](./solutions/60.md)|medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/description/)|[python](./solutions/46.md)|medium|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[python](./solutions/47.md)|medium|
+|77|[Combinations](https://leetcode.com/problems/combinations/description/)|[python](./solutions/77.md)|medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/description/)|[python](./solutions/78.md)|medium|
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[python](./solutions/90.md)|medium|
 
-  + Leetcode46：[不含重复元素数组的全排列](#不含重复元素数组的全排列)（`全排列` `medium`）
-  + Leetcode47：[含重复元素数组的全排列](#含重复元素数组的全排列)（`全排列` `medium`）
-  + Leetcode77：[1~n中所有k个数的组合](#1n中所有k个数的组合)（`组合` `medium`）
-  + Leetcode78：[不含重复元素集合的所有子集](#不含重复元素集合的所有子集)（`组合` `medium`）
-  + Leetcode90：[含重复元素集合的所有子集](#含重复元素集合的所有子集)（`组合` `medium`）
   + Leetcode39：[和为target的数字组合](#和为target的数字组合)（`组合` `medium`）
   + Leetcode40：[和为target的数字组合II](#和为target的数字组合ii)（`组合` `medium`）
 #### *排序*
@@ -432,6 +432,7 @@
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|||
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|||
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[python](./solutions/90.md)|medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[python](./solutions/128.md)|hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
