@@ -97,9 +97,9 @@
 |《剑指offer》面试题61|扑克牌中的顺子|||
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[python](./solutions/75.md)|medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[cpp](./solutions/179.md)[python2](./solutions/179.md)|medium|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[python](./solutions/88.md)|easy|
+|《剑指offer》面试题51|数组中的逆序对|||
 
-+ Leetcode88：[合并两个有序数组](#合并两个有序数组)（`归并` `easy`）
-+ 《剑指offer》面试题51：[数组中的逆序对](#数组中的逆序对)（`归并`）
 + Leetcode315：[计算右侧小于当前元素的个数](#计算右侧小于当前元素的个数)（`归并` `BST` `hard`）
 + Leetcode324：[摆动排序](#摆动排序)（`medium`）
 + Leetcode384：[打乱数组](#打乱数组)（`Fisher–Yates shuffle洗牌算法` `medium`）
@@ -435,6 +435,7 @@
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|||
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|||
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[python](./solutions/88.md)|easy|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[python](./solutions/90.md)|medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[python](./solutions/128.md)|hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
