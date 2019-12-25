@@ -114,6 +114,7 @@
 |lc:198|[House Robber](https://leetcode.com/problems/house-robber/)|[python](./solutions/189.md)|easy|
 |lc:213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[python](./solutions/213.md)|medium|
 |lc:337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[python](./solutions/337.md)|medium|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/)|[python](./solutions/322.md)|medium|
 
   + Leetcode322：[找钱](#找钱)（`动态规划` `medium`）
   + 拼多多内推笔试：[装载货物的最少货车数量](#装载货物的最少货车数量)（`贪心`）
@@ -459,6 +460,7 @@
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[python](./solutions/287.md)|medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[python](./solutions/300.md)|medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[python](./solutions/315.md)|hard|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/)|[python](./solutions/322.md)|medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[python](./solutions/324.md)|medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[python](./solutions/334.md)|medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[python](./solutions/337.md)|medium|
