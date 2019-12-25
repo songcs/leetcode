@@ -129,17 +129,16 @@
 |lc:289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[python](./solutions/289.md)|medium|
 
 ### 字符串
-  - *字符串与数字*
-      + 《剑指offer》面试题20：[判断字符串是否表示一个数值](#判断字符串是否表示一个数值)（`鲁棒性`）
-      + 《剑指offer》面试题67：[把字符串转换成整数](#把字符串转换成整数)（`鲁棒性`）
-  - *字符查找*
-      + 《剑指offer》面试题50(题目一)：[字符串中第一个只出现一次的字符](#字符串中第一个只出现一次的字符)（`哈希表`）
-      + 《剑指offer》面试题50(题目二)：[字符流中第一个只出现一次的字符](#字符流中第一个只出现一次的字符)（`哈希表`）
-  - *翻转*
-      + 《剑指offer》面试题58(题目一)：[翻转单词顺序](#翻转单词顺序)
-      + 《剑指offer》面试题58(题目二)：[左旋转字符串](#左旋转字符串)
-      + Leetcode344：[翻转字符串](#翻转字符串)（`双指针` `easy`）
-  - *排列组合*
+|来源|题目|本地题解报告|难度|
+|----|----|----|----|
+|《剑指offer》面试题20|判断字符串是否表示一个数值|||
+|《剑指offer》面试题67|把字符串转换成整数|||
+|《剑指offer》面试题50(题目一)|字符串中第一个只出现一次的字符|||
+|《剑指offer》面试题50(题目二)|字符流中第一个只出现一次的字符|||
+|《剑指offer》面试题58(题目一)|翻转单词顺序|||
+|《剑指offer》面试题58(题目二)|左旋转字符串|||
+|lc:344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[python](./solutions/344.md)|easy|
+
       + 《剑指offer》面试题38：[字符串的排列](#字符串的排列)（`排列`）
       + 《剑指offer》面试题38(扩展)：[求字符的所有组合](#求字符的所有组合)（`组合`）
   - *删除替换*
@@ -465,6 +464,7 @@
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[python](./solutions/324.md)|medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[python](./solutions/334.md)|medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[python](./solutions/337.md)|medium|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[python](./solutions/344.md)|easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[python](./solutions/347.md)|medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[python](./solutions/350.md)|easy|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[python](./solutions/378.md)|medium|
