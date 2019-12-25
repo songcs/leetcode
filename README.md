@@ -138,13 +138,11 @@
 |《剑指offer》面试题58(题目一)|翻转单词顺序|||
 |《剑指offer》面试题58(题目二)|左旋转字符串|||
 |lc:344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[python](./solutions/344.md)|easy|
-
-      + 《剑指offer》面试题38：[字符串的排列](#字符串的排列)（`排列`）
-      + 《剑指offer》面试题38(扩展)：[求字符的所有组合](#求字符的所有组合)（`组合`）
-  - *删除替换*
-      + 《剑指offer》面试题5：[替换空格](#替换空格)
-      + Leetcode71：[简化路径](#简化路径)（`medium`）
-  - *异位词*
+|《剑指offer》面试题38|字符串的排列|||
+|《剑指offer》面试题38(扩展)|求字符的所有组合|||
+|《剑指offer》面试题5|替换空格|||
+|lc:71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|[python](.solutions/71.md)|medium|
+|||||
       + Leetcode49：[字母异位词分组](#字母异位词分组)（`排序` `哈希表` `medium`）
       + Leetcode242：[有效的字母异位词](#有效的字母异位词)（`排序` `哈希表` `easy`）
   - *单词查找*
