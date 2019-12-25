@@ -115,9 +115,8 @@
 |lc:213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[python](./solutions/213.md)|medium|
 |lc:337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[python](./solutions/337.md)|medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[python](./solutions/322.md)|medium|
+|拼多多内推笔试|装载货物的最少货车数量|||
 
-  + Leetcode322：[找钱](#找钱)（`动态规划` `medium`）
-  + 拼多多内推笔试：[装载货物的最少货车数量](#装载货物的最少货车数量)（`贪心`）
 #### *二维数组*
   + 《剑指offer》面试题4：[二维数组中的查找](#二维数组中的查找)
   + Leetcode378：[有序矩阵中第K小的元素](#有序矩阵中第k小的元素)（`优先队列` `二分查找` `medium`）
