@@ -143,9 +143,8 @@
 |《剑指offer》面试题5|替换空格|||
 |lc:71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|[python](.solutions/71.md)|medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[python](./solutions/49.md)|medium|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
 
-      + Leetcode49：[字母异位词分组](#字母异位词分组)（`排序` `哈希表` `medium`）
-      + Leetcode242：[有效的字母异位词](#有效的字母异位词)（`排序` `哈希表` `easy`）
   - *单词查找*
       + 《剑指offer》面试题12：[单词搜索](#单词搜索)（`DFS`）
       + Leetcode212：[单词搜索II](#单词搜索ii)（`Trie` `DFS` `hard`）
@@ -453,6 +452,7 @@
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[python](./solutions/189.md)|easy|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[python](./solutions/213.md)|medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./solutions/283.md)|easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[python](./solutions/287.md)|medium|
