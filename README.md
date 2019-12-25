@@ -123,12 +123,10 @@
 |《剑指offer》面试题4|二维数组中的查找|||
 |lc:378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[python](./solutions/378.md)|medium|
 |《剑指offer》面试题29|顺时针打印矩阵|||
-|48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[python](./solutions/48.md)|medium|
+|lc:48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[python](./solutions/48.md)|medium|
 |《剑指offer》面试题66|构建乘积数组|||
-|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[python](./solutions/73.md)|medium|
-
-  + Leetcode289：[细胞自动机的下一个状态](#细胞自动机的下一个状态)（`位运算` `medium`）
-
+|lc:73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[python](./solutions/73.md)|medium|
+|lc:289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[python](./solutions/289.md)|medium|
 
 ### 字符串
   - *字符串与数字*
@@ -460,6 +458,7 @@
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./solutions/283.md)|easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[python](./solutions/287.md)|medium|
+|289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[python](./solutions/289.md)|medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[python](./solutions/300.md)|medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[python](./solutions/315.md)|hard|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[python](./solutions/322.md)|medium|
