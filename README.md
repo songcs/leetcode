@@ -125,7 +125,8 @@
 |《剑指offer》面试题29|顺时针打印矩阵|||
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[python](./solutions/48.md)|medium|
 |《剑指offer》面试题66|构建乘积数组|||
-  + Leetcode73：[矩阵置零](#矩阵置零)（`medium`）
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[python](./solutions/73.md)|medium|
+
   + Leetcode289：[细胞自动机的下一个状态](#细胞自动机的下一个状态)（`位运算` `medium`）
 
 
