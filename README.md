@@ -113,8 +113,8 @@
 |lc:188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[python](./solutions/188.md)|hard|
 |lc:198|[House Robber](https://leetcode.com/problems/house-robber/)|[python](./solutions/189.md)|easy|
 |lc:213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[python](./solutions/213.md)|medium|
+|lc:337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[python](./solutions/337.md)|medium|
 
-  + Leetcode337：[打家劫舍III](#打家劫舍iii)（`动态规划` `medium`）
   + Leetcode322：[找钱](#找钱)（`动态规划` `medium`）
   + 拼多多内推笔试：[装载货物的最少货车数量](#装载货物的最少货车数量)（`贪心`）
 #### *二维数组*
@@ -461,6 +461,7 @@
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[python](./solutions/315.md)|hard|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[python](./solutions/324.md)|medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[python](./solutions/334.md)|medium|
+|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[python](./solutions/337.md)|medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[python](./solutions/347.md)|medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[python](./solutions/350.md)|easy|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[python](./solutions/384.md)|medium|
