@@ -118,9 +118,12 @@
 |拼多多内推笔试|装载货物的最少货车数量|||
 
 #### *二维数组*
-  + 《剑指offer》面试题4：[二维数组中的查找](#二维数组中的查找)
-  + Leetcode378：[有序矩阵中第K小的元素](#有序矩阵中第k小的元素)（`优先队列` `二分查找` `medium`）
-  + 《剑指offer》面试题29：[顺时针打印矩阵](#顺时针打印矩阵)
+|来源|题目|本地题解报告|难度|
+|----|----|----|----|
+|《剑指offer》面试题4|二维数组中的查找|||
+|lc:378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[python](./solutions/378.md)|medium|
+|《剑指offer》面试题29|顺时针打印矩阵||
+
   + Leetcode48：[90度旋转图片](#90度旋转图片)（`medium`）
   + 《剑指offer》面试题66：[构建乘积数组](#构建乘积数组)
   + Leetcode73：[矩阵置零](#矩阵置零)（`medium`）
@@ -465,5 +468,6 @@
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[python](./solutions/337.md)|medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[python](./solutions/347.md)|medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[python](./solutions/350.md)|easy|
+|378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[python](./solutions/378.md)|medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[python](./solutions/384.md)|medium|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
