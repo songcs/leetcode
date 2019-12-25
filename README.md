@@ -142,7 +142,8 @@
 |《剑指offer》面试题38(扩展)|求字符的所有组合|||
 |《剑指offer》面试题5|替换空格|||
 |lc:71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|[python](.solutions/71.md)|medium|
-|||||
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[python](./solutions/49.md)|medium|
+
       + Leetcode49：[字母异位词分组](#字母异位词分组)（`排序` `哈希表` `medium`）
       + Leetcode242：[有效的字母异位词](#有效的字母异位词)（`排序` `哈希表` `easy`）
   - *单词查找*
