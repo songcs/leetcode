@@ -107,12 +107,12 @@
 |来源|题目|本地题解报告|难度|
 |----|----|----|----|
 |lc:134|[Gas Station](https://leetcode.com/problems/gas-station/)|[python](./solutions/134.md)|medium|
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/)|[python](./solutions/121.md)|easy|
-|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[python](./solutions/122.md)|easy|
-|123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[python](./solutions/123.md)|hard|
-|188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[python](./solutions/188.md)|hard|
+|lc:121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/)|[python](./solutions/121.md)|easy|
+|lc:122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[python](./solutions/122.md)|easy|
+|lc:123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[python](./solutions/123.md)|hard|
+|lc:188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[python](./solutions/188.md)|hard|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|[python](./solutions/189.md)|easy|
 
-  + Leetcode198：[打家劫舍](#打家劫舍)（`动态规划` `easy`）
   + Leetcode213：[打家劫舍II](#打家劫舍ii)（`动态规划` `medium`）
   + Leetcode337：[打家劫舍III](#打家劫舍iii)（`动态规划` `medium`）
   + Leetcode322：[找钱](#找钱)（`动态规划` `medium`）
@@ -451,6 +451,7 @@
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[cpp](./solutions/179.md)[python2](./solutions/179.md)|medium|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[python](./solutions/188.md)|hard|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[python](./solutions/189.md)|easy|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|[python](./solutions/189.md)|easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./solutions/283.md)|easy|
