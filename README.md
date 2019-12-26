@@ -144,9 +144,8 @@
 |lc:71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|[python](.solutions/71.md)|medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[python](./solutions/49.md)|medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
+|79|[Word Search](https://leetcode.com/problems/word-search/description/)|[python](./solutions/79.md)|medium|
 
-  - *单词查找*
-      + 《剑指offer》面试题12：[单词搜索](#单词搜索)（`DFS`）
       + Leetcode212：[单词搜索II](#单词搜索ii)（`Trie` `DFS` `hard`）
   - *字符串转换*
       + Leetcode91：[数字字符串解码](#数字字符串解码)（`动态规划` `medium`）
@@ -433,7 +432,7 @@
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|||
 |77|[Combinations](https://leetcode.com/problems/combinations/description/)|[python](./solutions/77.md)|medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)|[python](./solutions/78.md)|medium|
-|79|[Word Search](https://leetcode.com/problems/word-search/description/)|||
+|79|[Word Search](https://leetcode.com/problems/word-search/description/)|[python](./solutions/79.md)|medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|||
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[python](./solutions/88.md)|easy|
