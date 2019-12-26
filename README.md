@@ -142,16 +142,14 @@
 |《剑指offer》面试题38(扩展)|求字符的所有组合|||
 |《剑指offer》面试题5|替换空格|||
 |lc:71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|[python](.solutions/71.md)|medium|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[python](./solutions/49.md)|medium|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
-|79|[Word Search](https://leetcode.com/problems/word-search/description/)|[python](./solutions/79.md)|medium|
-|212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[python](./solutions/212.md)|hard|
-|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[python](./solutions/91.md)|medium|
-|127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[python](./solutions/127.md)|medium|
+|lc:49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[python](./solutions/49.md)|medium|
+|lc:242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
+|lc:79|[Word Search](https://leetcode.com/problems/word-search/description/)|[python](./solutions/79.md)|medium|
+|lc:212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[python](./solutions/212.md)|hard|
+|lc:91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[python](./solutions/91.md)|medium|
+|lc:127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[python](./solutions/127.md)|medium|
+|lintcode:119|[单词转换的最少次数](https://www.lintcode.com/problem/edit-distance/description)|||
 
-      + Leetcode127：[单词阶梯](#单词阶梯)（`BFS` `medium`）
-      + Lintcode119：[单词转换的最少次数](#单词转换的最少次数)（`动态规划` `medium`）
-  - *子串与子序列*
       + Leetcode28：[子串查找](#子串查找)（`KMP` `easy`）
       + Leetcode3：[不含重复字符的最长子串](#不含重复字符的最长子串)（`滑动窗口` `哈希表` `medium`）
       + Leetcode395：[至少有K个重复字符的最长子串](#至少有k个重复字符的最长子串)（`二分法` `哈希表` `medium`）
