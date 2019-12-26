@@ -152,8 +152,8 @@
 |lc:28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[python](./solutions/28.md)|easy|
 |lc:3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[python](./solutions/3.md)|medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|[python](./solutions/76.md)|hard|
+|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[python](./solutions/395.md)|medium|
 
-      + Leetcode395：[至少有K个重复字符的最长子串](#至少有k个重复字符的最长子串)（`二分法` `哈希表` `medium`）
       + Leetcode30：[所有单词相连的子串](#所有单词相连的子串)（`哈希表` `hard`）
       + Leetcode5：[最长回文子串](#最长回文子串)（`动态规划` `medium`）
       + Leetcode125：[判断字符串是否是回文串](#判断字符串是否是回文串)（`双指针` `easy`）
@@ -468,4 +468,5 @@
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[python](./solutions/350.md)|easy|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[python](./solutions/378.md)|medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[python](./solutions/384.md)|medium|
+|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[python](./solutions/395.md)|medium|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
