@@ -149,9 +149,9 @@
 |lc:91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[python](./solutions/91.md)|medium|
 |lc:127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[python](./solutions/127.md)|medium|
 |lintcode:119|[单词转换的最少次数](https://www.lintcode.com/problem/edit-distance/description)|||
+|lc:28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[python](./solutions/28.md)|easy|
+|lc:3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[python](./solutions/3.md)|medium|
 
-      + Leetcode28：[子串查找](#子串查找)（`KMP` `easy`）
-      + Leetcode3：[不含重复字符的最长子串](#不含重复字符的最长子串)（`滑动窗口` `哈希表` `medium`）
       + Leetcode395：[至少有K个重复字符的最长子串](#至少有k个重复字符的最长子串)（`二分法` `哈希表` `medium`）
       + Leetcode76：[最小覆盖子串](#最小覆盖子串)（`滑动窗口` `哈希表` `hard`）
       + Leetcode30：[所有单词相连的子串](#所有单词相连的子串)（`哈希表` `hard`）
