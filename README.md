@@ -145,8 +145,8 @@
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[python](./solutions/49.md)|medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|[python](./solutions/79.md)|medium|
+|212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[python](./solutions/212.md)|hard|
 
-      + Leetcode212：[单词搜索II](#单词搜索ii)（`Trie` `DFS` `hard`）
   - *字符串转换*
       + Leetcode91：[数字字符串解码](#数字字符串解码)（`动态规划` `medium`）
       + Leetcode127：[单词阶梯](#单词阶梯)（`BFS` `medium`）
@@ -449,6 +449,7 @@
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[python](./solutions/188.md)|hard|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[python](./solutions/189.md)|easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[python](./solutions/189.md)|easy|
+|212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[python](./solutions/212.md)|hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[python](./solutions/213.md)|medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
