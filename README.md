@@ -151,9 +151,9 @@
 |lintcode:119|[单词转换的最少次数](https://www.lintcode.com/problem/edit-distance/description)|||
 |lc:28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[python](./solutions/28.md)|easy|
 |lc:3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[python](./solutions/3.md)|medium|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|[python](./solutions/76.md)|hard|
 
       + Leetcode395：[至少有K个重复字符的最长子串](#至少有k个重复字符的最长子串)（`二分法` `哈希表` `medium`）
-      + Leetcode76：[最小覆盖子串](#最小覆盖子串)（`滑动窗口` `哈希表` `hard`）
       + Leetcode30：[所有单词相连的子串](#所有单词相连的子串)（`哈希表` `hard`）
       + Leetcode5：[最长回文子串](#最长回文子串)（`动态规划` `medium`）
       + Leetcode125：[判断字符串是否是回文串](#判断字符串是否是回文串)（`双指针` `easy`）
@@ -427,7 +427,7 @@
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[python](./solutions/73.md)|medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[python](./solutions/74.md)|medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[python](./solutions/75.md)|medium|
-|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|||
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|[python](./solutions/76.md)|hard|
 |77|[Combinations](https://leetcode.com/problems/combinations/description/)|[python](./solutions/77.md)|medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)|[python](./solutions/78.md)|medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|[python](./solutions/79.md)|medium|
