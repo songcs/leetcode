@@ -146,9 +146,8 @@
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|[python](./solutions/79.md)|medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[python](./solutions/212.md)|hard|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[python](./solutions/91.md)|medium|
 
-  - *字符串转换*
-      + Leetcode91：[数字字符串解码](#数字字符串解码)（`动态规划` `medium`）
       + Leetcode127：[单词阶梯](#单词阶梯)（`BFS` `medium`）
       + Lintcode119：[单词转换的最少次数](#单词转换的最少次数)（`动态规划` `medium`）
   - *子串与子序列*
@@ -437,6 +436,7 @@
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[python](./solutions/88.md)|easy|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[python](./solutions/90.md)|medium|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[python](./solutions/91.md)|medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/)|[python](./solutions/121.md)|easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[python](./solutions/122.md)|easy|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[python](./solutions/123.md)|hard|
