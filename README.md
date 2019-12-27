@@ -154,8 +154,8 @@
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|[python](./solutions/76.md)|hard|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[python](./solutions/395.md)|medium|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[python](./solutions/30.md)|hard|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[python](./solutions/5.md)|medium|
 
-      + Leetcode5：[最长回文子串](#最长回文子串)（`动态规划` `medium`）
       + Leetcode125：[判断字符串是否是回文串](#判断字符串是否是回文串)（`双指针` `easy`）
   - *字符串拆分*
       + Leetcode131：[分割回文串](#分割回文串)（`动态规划` `DFS` `medium`）
