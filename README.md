@@ -157,8 +157,8 @@
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[python](./solutions/5.md)|medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[python](./solutions/125.md)|easy|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[python](./solutions/131.md)|medium|
+|139|[Word Break](https://leetcode.com/problems/word-break/)|[python](./solutions/139.md)|medium|
 
-      + Leetcode139：[单词拆分I](#单词拆分i)（`动态规划` `medium`）
       + Leetcode140：[单词拆分II](#单词拆分ii)（`动态规划` `hard`）
   - *字符串匹配*
       + Leetcode10：[正则表达式匹配](#正则表达式匹配)（`动态规划` `hard`）
@@ -445,6 +445,7 @@
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[python](./solutions/131.md)|medium|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[python](./solutions/134.md)|medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
+|139|[Word Break](https://leetcode.com/problems/word-break/)|[python](./solutions/139.md)|medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[cpp](./solutions/179.md)[python2](./solutions/179.md)|medium|
