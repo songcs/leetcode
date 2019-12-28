@@ -156,10 +156,8 @@
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[python](./solutions/30.md)|hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[python](./solutions/5.md)|medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[python](./solutions/125.md)|easy|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[python](./solutions/131.md)|medium|
 
-
-  - *字符串拆分*
-      + Leetcode131：[分割回文串](#分割回文串)（`动态规划` `DFS` `medium`）
       + Leetcode139：[单词拆分I](#单词拆分i)（`动态规划` `medium`）
       + Leetcode140：[单词拆分II](#单词拆分ii)（`动态规划` `hard`）
   - *字符串匹配*
@@ -444,6 +442,7 @@
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[python](./solutions/125.md)|easy|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[python](./solutions/127.md)|medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[python](./solutions/128.md)|hard|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[python](./solutions/131.md)|medium|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[python](./solutions/134.md)|medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
