@@ -161,8 +161,9 @@
 |lc:140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[python](./solutions/140.md)|hard|
 |lc:10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[python](./solutions/10.md)|hard|
 |lc:44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|[python](./solutions/44.md)|hard|
-      + Lintcode77：[两个字符串的最长公共子序列](#两个字符串的最长公共子序列)（`动态规划` `medium`）
-      + Lintcode79：[两个字符串的最长公共子串](#两个字符串的最长公共子串)（`动态规划` `medium`）
+|lc:1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[python](./solutions/1143.md)|medium|
+|li:79|[Longest Common Substring](https://www.lintcode.com/problem/longest-common-substring/description)|[cpp](./solutions/li77.md)|medium|
+
       + Leetcode14：[多个字符串的最长公共前缀](#多个字符串的最长公共前缀)（`扫描` `分治` `二分查找` `Trie` `easy`）
 
 <h2 id="list"></h2>
@@ -471,3 +472,4 @@
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[python](./solutions/384.md)|medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[python](./solutions/395.md)|medium|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
+|1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[python](./solutions/1143.md)|medium|
