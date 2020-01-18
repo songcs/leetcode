@@ -163,8 +163,7 @@
 |lc:44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|[python](./solutions/44.md)|hard|
 |lc:1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[python](./solutions/1143.md)|medium|
 |li:79|[Longest Common Substring](https://www.lintcode.com/problem/longest-common-substring/description)|[cpp](./solutions/li77.md)|medium|
-
-      + Leetcode14：[多个字符串的最长公共前缀](#多个字符串的最长公共前缀)（`扫描` `分治` `二分查找` `Trie` `easy`）
+|lc:14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[python](./solutions/14.md)|easy|
 
 <h2 id="list"></h2>
 
