@@ -151,14 +151,15 @@
 |lintcode:119|[单词转换的最少次数](https://www.lintcode.com/problem/edit-distance/description)|||
 |lc:28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[python](./solutions/28.md)|easy|
 |lc:3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[python](./solutions/3.md)|medium|
-|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|[python](./solutions/76.md)|hard|
-|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[python](./solutions/395.md)|medium|
-|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[python](./solutions/30.md)|hard|
-|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[python](./solutions/5.md)|medium|
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[python](./solutions/125.md)|easy|
-|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[python](./solutions/131.md)|medium|
-|139|[Word Break](https://leetcode.com/problems/word-break/)|[python](./solutions/139.md)|medium|
-|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[python](./solutions/140.md)|hard|
+|lc:76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|[python](./solutions/76.md)|hard|
+|lc:395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[python](./solutions/395.md)|medium|
+|lc:30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[python](./solutions/30.md)|hard|
+|lc:5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[python](./solutions/5.md)|medium|
+|lc:125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[python](./solutions/125.md)|easy|
+|lc:131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[python](./solutions/131.md)|medium|
+|lc:139|[Word Break](https://leetcode.com/problems/word-break/)|[python](./solutions/139.md)|medium|
+|lc:140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[python](./solutions/140.md)|hard|
+|lc:10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[python](./solutions/10.md)|hard|
 
   - *字符串匹配*
       + Leetcode10：[正则表达式匹配](#正则表达式匹配)（`动态规划` `hard`）
@@ -361,7 +362,7 @@
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[python](./solutions/7.md)|easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[python](./solutions/8.md)|medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[python](./solutions/9.md)|easy|
-|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|||
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[python](./solutions/10.md)|hard|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[python](./solutions/11.md)|medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[python](./solutions/12.md)|medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[python](./solutions/13.md)|easy|
