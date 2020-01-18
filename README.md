@@ -188,8 +188,8 @@
 |lc:61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[python](./solutions/61.md)|medium|
 |lc:24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[python](./solutions/24.md)|mediun|
 |lc:25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[python](./solutions/25.md)|hard|
+|lc:148|[Sort List](https://leetcode.com/problems/sort-list/)|[python](./solutions/148.md)|medium|
 
-      + Leetcode148：[链表节点排序](#链表节点排序)（`分治归并` `medium`）
       + Leetcode328：[将链表偶数位置的节点移至尾部](#将链表偶数位置的节点移至尾部)（`medium`）
   - *多链表处理*
       + Leetcode2：[两数相加](#两数相加)（`数学` `medium`）
@@ -446,6 +446,7 @@
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[python](./solutions/139.md)|medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[python](./solutions/140.md)|hard|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[python](./solutions/141.md)|easy|
+|148|[Sort List](https://leetcode.com/problems/sort-list/)|[python](./solutions/148.md)|medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[cpp](./solutions/179.md)[python2](./solutions/179.md)|medium|
