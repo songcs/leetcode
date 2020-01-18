@@ -172,14 +172,13 @@
 |----|----|----|----|
 |《剑指offer》面试题6|从尾到头打印链表|||
 |lc:234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[python](./solutions/234.md)|easy|
+|《剑指offer》面试题22|链表中倒数第k个节点|||
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[python](./solutions/19.md)|medium|
+|剑指offer》面试题22(相关题)|链表的中间节点|||
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[python](./solutions/141.md)|easy|
+|《剑指offer》面试题23|链表中环的入口节点|||
+|《剑指offer》面试题18(题目一)|删除链表中的节点|||
 
-      + 《剑指offer》面试题22：[链表中倒数第k个节点](#链表中倒数第k个节点)（`双指针`）
-      + Leetcode19：[删除链表倒数第n个节点](#删除链表倒数第n个节点)（`双指针` `鲁棒性` `medium`）
-      + 《剑指offer》面试题22(相关题)：[链表的中间节点](#链表的中间节点)（`双指针`）
-      + Leetcode141：[判断链表是否有环](#判断链表是否有环)（`双指针` `easy`）
-      + 《剑指offer》面试题23：[链表中环的入口节点](#链表中环的入口节点)（`双指针`）
-  - *节点删除*
-      + 《剑指offer》面试题18(题目一)：[删除链表中的节点](#删除链表中的节点)
       + Leetcode203：[删除链表中等于给定值的所有节点](#删除链表中等于给定值的所有节点)（`鲁棒性` `easy`）
       + Leetcode83：[删除有序链表中的重复节点](#删除有序链表中的重复节点)（`easy`）
       + 《剑指offer》面试题18(题目二)：[删除有序链表中的重复节点II](#删除有序链表中的重复节点ii)（`鲁棒性` `medium`）
@@ -446,6 +445,7 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[python](./solutions/139.md)|medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[python](./solutions/140.md)|hard|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[python](./solutions/141.md)|easy|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[cpp](./solutions/179.md)[python2](./solutions/179.md)|medium|
