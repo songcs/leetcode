@@ -168,9 +168,11 @@
 <h2 id="list"></h2>
 
 ### 链表
-  - *遍历*
-      + 《剑指offer》面试题6：[从尾到头打印链表](#从尾到头打印链表)（`栈`）
-      + Leetcode234：[回文链表](#回文链表)（`栈` `easy`）
+|来源|题目|本地题解报告|难度|
+|----|----|----|----|
+|《剑指offer》面试题6|从尾到头打印链表|||
+|lc:234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[python](./solutions/234.md)|easy|
+
       + 《剑指offer》面试题22：[链表中倒数第k个节点](#链表中倒数第k个节点)（`双指针`）
       + Leetcode19：[删除链表倒数第n个节点](#删除链表倒数第n个节点)（`双指针` `鲁棒性` `medium`）
       + 《剑指offer》面试题22(相关题)：[链表的中间节点](#链表的中间节点)（`双指针`）
@@ -453,6 +455,7 @@
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[python](./solutions/212.md)|hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[python](./solutions/213.md)|medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[python](./solutions/234.md)|easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./solutions/283.md)|easy|
