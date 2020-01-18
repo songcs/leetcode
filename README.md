@@ -178,18 +178,17 @@
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[python](./solutions/141.md)|easy|
 |《剑指offer》面试题23|链表中环的入口节点|||
 |《剑指offer》面试题18(题目一)|删除链表中的节点|||
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[python](./solutions/203.md)|easy|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[python](./solutions/83.md)|easy|
+|《剑指offer》面试题18(题目二)|删除有序链表中的重复节点II|||
+|《剑指offer》面试题62|圆圈中最后剩下的数|||
+|腾讯面试题|实现双链表节点删除函数|||
+|《剑指offer》面试题24|反转链表|||
+|《剑指offer》面试题35|复杂链表的复制|||
+|lc:61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[python](./solutions/61.md)|medium|
+|lc:24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[python](./solutions/24.md)|mediun|
+|lc:25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[python](./solutions/25.md)|hard|
 
-      + Leetcode203：[删除链表中等于给定值的所有节点](#删除链表中等于给定值的所有节点)（`鲁棒性` `easy`）
-      + Leetcode83：[删除有序链表中的重复节点](#删除有序链表中的重复节点)（`easy`）
-      + 《剑指offer》面试题18(题目二)：[删除有序链表中的重复节点II](#删除有序链表中的重复节点ii)（`鲁棒性` `medium`）
-      + 《剑指offer》面试题62：[圆圈中最后剩下的数](#圆圈中最后剩下的数)
-      + 腾讯面试题：[实现双链表节点删除函数](#实现双链表节点删除函数)（`鲁棒性`）
-  - *单链表处理*
-      + 《剑指offer》面试题24：[反转链表](#反转链表)（`栈`）
-      + 《剑指offer》面试题35：[复杂链表的复制](#复杂链表的复制)
-      + Leetcode61：[旋转链表](#旋转链表)（`medium`）
-      + Leetcode24：[成对交换链表的节点](#成对交换链表的节点)（`鲁棒性` `medium`）
-      + Leetcode25：[K个一组翻转链表](#k个一组翻转链表)（`鲁棒性` `hard`）
       + Leetcode148：[链表节点排序](#链表节点排序)（`分治归并` `medium`）
       + Leetcode328：[将链表偶数位置的节点移至尾部](#将链表偶数位置的节点移至尾部)（`medium`）
   - *多链表处理*
@@ -431,6 +430,7 @@
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|[python](./solutions/79.md)|medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|||
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[python](./solutions/83.md)|easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[python](./solutions/88.md)|easy|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[python](./solutions/90.md)|medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[python](./solutions/91.md)|medium|
@@ -452,6 +452,7 @@
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[python](./solutions/188.md)|hard|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[python](./solutions/189.md)|easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[python](./solutions/189.md)|easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[python](./solutions/203.md)|easy|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[python](./solutions/212.md)|hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[python](./solutions/213.md)|medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
