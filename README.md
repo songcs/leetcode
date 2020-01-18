@@ -160,11 +160,7 @@
 |lc:139|[Word Break](https://leetcode.com/problems/word-break/)|[python](./solutions/139.md)|medium|
 |lc:140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[python](./solutions/140.md)|hard|
 |lc:10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[python](./solutions/10.md)|hard|
-
-  - *字符串匹配*
-      + Leetcode10：[正则表达式匹配](#正则表达式匹配)（`动态规划` `hard`）
-      + Leetcode44：[通配符匹配](#通配符匹配)（`动态规划` `hard`）
-  - *最长公共问题*
+|lc:44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|[python](./solutions/44.md)|hard|
       + Lintcode77：[两个字符串的最长公共子序列](#两个字符串的最长公共子序列)（`动态规划` `medium`）
       + Lintcode79：[两个字符串的最长公共子串](#两个字符串的最长公共子串)（`动态规划` `medium`）
       + Leetcode14：[多个字符串的最长公共前缀](#多个字符串的最长公共前缀)（`扫描` `分治` `二分查找` `Trie` `easy`）
@@ -396,7 +392,7 @@
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[python](./solutions/41.md)|hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[python](./solutions/42.md)|hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[python](./solutions/43.md)|medium|
-|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|||
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|[python](./solutions/44.md)|hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|||
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)|[python](./solutions/46.md)|medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[python](./solutions/47.md)|medium|
