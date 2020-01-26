@@ -189,9 +189,8 @@
 |lc:24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[python](./solutions/24.md)|mediun|
 |lc:25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[python](./solutions/25.md)|hard|
 |lc:148|[Sort List](https://leetcode.com/problems/sort-list/)|[python](./solutions/148.md)|medium|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[python](./solutions/328.md)|medium|
 
-      + Leetcode328：[将链表偶数位置的节点移至尾部](#将链表偶数位置的节点移至尾部)（`medium`）
-  - *多链表处理*
       + Leetcode2：[两数相加](#两数相加)（`数学` `medium`）
       + 《剑指offer》面试题25：[合并两个有序链表](#合并两个有序链表)
       + Leetcode23：[合并k个有序链表](#合并k个有序链表)（`多路归并` `堆` `分治` `hard`）
@@ -467,6 +466,7 @@
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[python](./solutions/315.md)|hard|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[python](./solutions/322.md)|medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[python](./solutions/324.md)|medium|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[python](./solutions/328.md)|medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[python](./solutions/334.md)|medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[python](./solutions/337.md)|medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[python](./solutions/344.md)|easy|
