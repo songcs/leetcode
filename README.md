@@ -214,8 +214,8 @@
 |《剑指offer》面试题27|二叉树的镜像|||
 |《剑指offer》面试题28|对称的二叉树|||
 |《剑指offer》面试题34|二叉树中和为某一值的路径|||
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[python](./solutions/124.md)|hard|
 
-    + Leetcode124：[二叉树的最大路径和](#二叉树的最大路径和)（`动态规划` `后序` `hard`）
     + Leetcode863：[二叉树中与target距离为K的结点](#二叉树中与target距离为k的结点)（`DFS(前序)` `BFS` `medium`）
 - *深度*
     + 《剑指offer》面试题55(题目一)：[二叉树的深度](#二叉树的深度)（`递归`）
@@ -438,6 +438,7 @@
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/)|[python](./solutions/121.md)|easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[python](./solutions/122.md)|easy|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[python](./solutions/123.md)|hard|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[python](./solutions/124.md)|hard|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[python](./solutions/125.md)|easy|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[python](./solutions/127.md)|medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[python](./solutions/128.md)|hard|
