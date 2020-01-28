@@ -192,7 +192,7 @@
 |lc:328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[python](./solutions/328.md)|medium|
 |lc:2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[python](./solutions/2.md)|medium|
 |《剑指offer》面试题25|合并两个有序链表|||
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[python](./solutions/23.md)|hard|
+|lc:23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[python](./solutions/23.md)|hard|
 |《剑指offer》面试题52|两个链表的第一个公共节点|||
 
 ### 树
@@ -200,9 +200,9 @@
 |《剑指offer》面试题8|中序遍历的下一个节点|||
 |《剑指offer》面试题26|树的子结构|||
 |《剑指offer》面试题37|序列化二叉树|||
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[python](./solutions/94.md)|medium|
+|lc:94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[python](./solutions/94.md)|medium|
+|lc:98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[python](./solutions/98.md)|medium|
 
-    + Leetcode98：[判断一棵二叉树是否是BST](#判断一棵二叉树是否是bst)（`BST` `中序` `medium`）
     + 《剑指offer》面试题33：[BST的后序遍历序列](#bst的后序遍历序列)（`BST` `后序`）
     + 《剑指offer》面试题36：[BST转双链表](#bst转双链表)（`BST` `中序` `双链表`）
     + Leetcode108：[有序数组转BST](#有序数组转bst)（`BST` `分治` `easy`）
@@ -433,6 +433,7 @@
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[python](./solutions/90.md)|medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[python](./solutions/91.md)|medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[python](./solutions/94.md)|medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[python](./solutions/98.md)|medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/)|[python](./solutions/121.md)|easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[python](./solutions/122.md)|easy|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[python](./solutions/123.md)|hard|
