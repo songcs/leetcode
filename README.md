@@ -189,11 +189,11 @@
 |lc:24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[python](./solutions/24.md)|mediun|
 |lc:25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[python](./solutions/25.md)|hard|
 |lc:148|[Sort List](https://leetcode.com/problems/sort-list/)|[python](./solutions/148.md)|medium|
-|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[python](./solutions/328.md)|medium|
+|lc:328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[python](./solutions/328.md)|medium|
+|lc:2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[python](./solutions/2.md)|medium|
+|《剑指offer》面试题25|合并两个有序链表|||
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[python](./solutions/23.md)|hard|
 
-      + Leetcode2：[两数相加](#两数相加)（`数学` `medium`）
-      + 《剑指offer》面试题25：[合并两个有序链表](#合并两个有序链表)
-      + Leetcode23：[合并k个有序链表](#合并k个有序链表)（`多路归并` `堆` `分治` `hard`）
       + 《剑指offer》面试题52：[两个链表的第一个公共节点](#两个链表的第一个公共节点)（`双指针`）
 
 ### 树
@@ -370,7 +370,7 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[python](./solutions/20.md)|easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[python](./solutions/21.md)|easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[python](./solutions/22.md)|medium|
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|||
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[python](./solutions/23.md)|hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[python](./solutions/24.md)|mediun|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[python](./solutions/25.md)|hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[python](./solutions/26.md)|easy|
