@@ -206,17 +206,15 @@
 |《剑指offer》面试题36|BST转双链表|||
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[python](./solutions/108.md)|easy|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[python](./solutions/109.md)|medium|
+|《剑指offer》面试题54|BST第k小的节点|||
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[python](./solutions/116.md)|medium|
+|《剑指offer》面试题32(题目一)|按层不分行输出二叉树|||
+|《剑指offer》面试题32(题目二)|按层分行输出二叉树|||
+|《剑指offer》面试题32(题目三)|之字形打印二叉树|||
+|《剑指offer》面试题27|二叉树的镜像|||
+|《剑指offer》面试题28|对称的二叉树|||
+|《剑指offer》面试题34|二叉树中和为某一值的路径|||
 
-    + 《剑指offer》面试题54：[BST第k小的节点](#bst第k小的节点)（`BST` `中序`）
-    + Leetcode116：[填充同一层的兄弟节点](#填充同一层的兄弟节点)（`BFS` `前序` `medium`）
-    + 《剑指offer》面试题32(题目一)：[按层不分行输出二叉树](#按层不分行输出二叉树)（`BFS`）
-    + 《剑指offer》面试题32(题目二)：[按层分行输出二叉树](#按层分行输出二叉树)（`BFS`）
-    + 《剑指offer》面试题32(题目三)：[之字形打印二叉树](#之字形打印二叉树)（`BFS` `栈`）
-- *对称二叉树*
-    + 《剑指offer》面试题27：[二叉树的镜像](#二叉树的镜像)（`递归` `迭代`）
-    + 《剑指offer》面试题28：[对称的二叉树](#对称的二叉树)（`递归` `迭代`）
-- *路径*
-    + 《剑指offer》面试题34：[二叉树中和为某一值的路径](#二叉树中和为某一值的路径)（`回溯`）
     + Leetcode124：[二叉树的最大路径和](#二叉树的最大路径和)（`动态规划` `后序` `hard`）
     + Leetcode863：[二叉树中与target距离为K的结点](#二叉树中与target距离为k的结点)（`DFS(前序)` `BFS` `medium`）
 - *深度*
@@ -436,6 +434,7 @@
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[python](./solutions/98.md)|medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[python](./solutions/108.md)|easy|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[python](./solutions/109.md)|medium|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[python](./solutions/116.md)|medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/)|[python](./solutions/121.md)|easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[python](./solutions/122.md)|easy|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[python](./solutions/123.md)|hard|
