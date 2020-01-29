@@ -246,14 +246,14 @@
 |《剑指offer》面试题10(题目四)|矩形覆盖|||
 |《剑指offer》面试题49|丑数|||
 |lc:36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[python](./solutions/36.md)|medium|
-|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[python](./solutions/204.md)|easy|
+|lc:204|[Count Primes](https://leetcode.com/problems/count-primes/)|[python](./solutions/204.md)|easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[python](./solutions/279.md)|medium|
+|《剑指offer》面试题15|二进制中1的个数|||
+|lc:7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[python](./solutions/7.md)|easy|
+|lc:43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[python](./solutions/43.md)|medium|
+|66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[python](./solutions/66.md)|easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[python](./solutions/171.md)|easy|
 
-    + 《剑指offer》面试题15：[二进制中1的个数](#二进制中1的个数)（`位运算`）
-    + Leetcode7：[反转整数](#反转整数)（`鲁棒性` `easy`）
-    + Leetcode43：[字符串相乘](#字符串相乘)（`鲁棒性` `medium`）
-    + Leetcode66：[数组表示的数字加1](#数组表示的数字加1)（`easy`）
-    + Leetcode171：[Excel表列序号（26进制转10进制）](#excel表列序号)（`easy`）
     + Leetcode190：[颠倒二进制位](#颠倒二进制位)（`位运算` `easy`）
 - *倍数约数*
     + Leetcode412：[Fizz Buzz](#fizz-buzz)（`easy`）
@@ -451,6 +451,7 @@
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[python](./solutions/148.md)|medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[python](./solutions/171.md)|easy|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[cpp](./solutions/179.md)[python2](./solutions/179.md)|medium|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[python](./solutions/188.md)|hard|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[python](./solutions/189.md)|easy|
