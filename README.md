@@ -246,8 +246,8 @@
 |《剑指offer》面试题10(题目四)|矩形覆盖|||
 |《剑指offer》面试题49|丑数|||
 |lc:36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[python](./solutions/36.md)|medium|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[python](./solutions/204.md)|easy|
 
-    + Leetcode204：[计数质数](#计数质数)（`easy`）
     + Leetcode279：[完美平方数](#完美平方数)（`动态规划` `medium`）
 - *进制*
     + 《剑指offer》面试题15：[二进制中1的个数](#二进制中1的个数)（`位运算`）
@@ -457,6 +457,7 @@
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[python](./solutions/189.md)|easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[python](./solutions/189.md)|easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[python](./solutions/203.md)|easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[python](./solutions/204.md)|easy|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[python](./solutions/212.md)|hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[python](./solutions/213.md)|medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
