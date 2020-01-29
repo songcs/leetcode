@@ -254,6 +254,7 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[python](./solutions/66.md)|easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[python](./solutions/171.md)|easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[python](./solutions/190.md)|easy|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python](./solutions/412.md)|easy|
 
     + Leetcode412：[Fizz Buzz](#fizz-buzz)（`easy`）
 - *次方与小数*
@@ -481,6 +482,7 @@
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[python](./solutions/378.md)|medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[python](./solutions/384.md)|medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[python](./solutions/395.md)|medium|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python](./solutions/412.md)|easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[python](./solutions/863.md)|medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[python](./solutions/1143.md)|medium|
