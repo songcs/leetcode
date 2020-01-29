@@ -233,8 +233,9 @@
 |《剑指offer》面试题59(题目二)|包含max函数的队列|||
 |《剑指offer》面试题31|栈的压入弹出序列|||
 |lc:20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[python](./solutions/20.md)|easy|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[python](./solutions/32.md)|hard|
 
-    + Leetcode32：[最长有效括号](#最长有效括号)（`栈` `hard`）
+
     + 《剑指offer》面试题59(题目一)：[滑动窗口的最大值](#滑动窗口的最大值)（`队列`）
 
 
@@ -377,7 +378,7 @@
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[python](./solutions/29.md)|medium|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[python](./solutions/30.md)|hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[python](./solutions/31.md)|medium|
-|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|||
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[python](./solutions/32.md)|hard|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[python](./solutions/33.md)|medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[python](./solutions/34.md)|medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[python](./solutions/35.md) [cpp](./solutions/35.md)|easy|
