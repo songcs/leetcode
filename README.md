@@ -247,9 +247,8 @@
 |《剑指offer》面试题49|丑数|||
 |lc:36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[python](./solutions/36.md)|medium|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[python](./solutions/204.md)|easy|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[python](./solutions/279.md)|medium|
 
-    + Leetcode279：[完美平方数](#完美平方数)（`动态规划` `medium`）
-- *进制*
     + 《剑指offer》面试题15：[二进制中1的个数](#二进制中1的个数)（`位运算`）
     + Leetcode7：[反转整数](#反转整数)（`鲁棒性` `easy`）
     + Leetcode43：[字符串相乘](#字符串相乘)（`鲁棒性` `medium`）
@@ -464,6 +463,7 @@
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[python](./solutions/234.md)|easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[python](./solutions/279.md)|medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./solutions/283.md)|easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[python](./solutions/287.md)|medium|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[python](./solutions/289.md)|medium|
