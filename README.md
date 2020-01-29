@@ -196,6 +196,8 @@
 |《剑指offer》面试题52|两个链表的第一个公共节点|||
 
 ### 树
+|来源|题目|本地题解报告|难度|
+|----|----|----|----|
 |《剑指offer》面试题7|重建二叉树|||
 |《剑指offer》面试题8|中序遍历的下一个节点|||
 |《剑指offer》面试题26|树的子结构|||
@@ -216,24 +218,22 @@
 |《剑指offer》面试题34|二叉树中和为某一值的路径|||
 |lc:124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[python](./solutions/124.md)|hard|
 |lc:863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[python](./solutions/863.md)|medium|
+|《剑指offer》面试题55(题目一)|二叉树的深度|||
+|《剑指offer》面试题55(题目二)|平衡二叉树AVL|||
+|《剑指offer》面试题68|两个节点的最低公共祖先|||
 
-
-- *深度*
-    + 《剑指offer》面试题55(题目一)：[二叉树的深度](#二叉树的深度)（`递归`）
-    + 《剑指offer》面试题55(题目二)：[平衡二叉树AVL](#平衡二叉树avl)（`后序`）
-- *公共祖先*
-    + 《剑指offer》面试题68：[两个节点的最低公共祖先](#两个节点的最低公共祖先)
 
 
 ### 栈和队列
-- *设计*
-    + 《剑指offer》面试题9：[用两个栈实现队列](#用两个栈实现队列)（`栈` `队列`）
-    + 《剑指offer》面试题9(相关题)：[用两个队列实现栈](#用两个队列实现栈)（`栈` `队列`）
-    + 《剑指offer》面试题30：[包含min函数的栈](#包含min函数的栈)（`栈`）
-    + 《剑指offer》面试题59(题目二)：[包含max函数的队列](#包含max函数的队列)（`队列`）
-- *其它*
-    + 《剑指offer》面试题31：[栈的压入弹出序列](#栈的压入弹出序列)（`栈`）
-    + Leetcode20：[有效的括号](#有效的括号)（`栈` `easy`）
+|来源|题目|本地题解报告|难度|
+|----|----|----|----|
+|《剑指offer》面试题9|用两个栈实现队列|||
+|《剑指offer》面试题9(相关题)|用两个队列实现栈|||
+|《剑指offer》面试题30|包含min函数的栈|||
+|《剑指offer》面试题59(题目二)|包含max函数的队列|||
+|《剑指offer》面试题31|栈的压入弹出序列|||
+|lc:20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[python](./solutions/20.md)|easy|
+
     + Leetcode32：[最长有效括号](#最长有效括号)（`栈` `hard`）
     + 《剑指offer》面试题59(题目一)：[滑动窗口的最大值](#滑动窗口的最大值)（`队列`）
 
