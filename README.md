@@ -253,9 +253,8 @@
 |lc:43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[python](./solutions/43.md)|medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[python](./solutions/66.md)|easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[python](./solutions/171.md)|easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[python](./solutions/190.md)|easy|
 
-    + Leetcode190：[颠倒二进制位](#颠倒二进制位)（`位运算` `easy`）
-- *倍数约数*
     + Leetcode412：[Fizz Buzz](#fizz-buzz)（`easy`）
 - *次方与小数*
     + 《剑指offer》面试题16：[数值的整数次方](#数值的整数次方)（`位运算` `鲁棒性`）
@@ -455,6 +454,7 @@
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[cpp](./solutions/179.md)[python2](./solutions/179.md)|medium|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[python](./solutions/188.md)|hard|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[python](./solutions/189.md)|easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[python](./solutions/190.md)|easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[python](./solutions/189.md)|easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[python](./solutions/203.md)|easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[python](./solutions/204.md)|easy|
