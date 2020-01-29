@@ -233,21 +233,20 @@
 |《剑指offer》面试题59(题目二)|包含max函数的队列|||
 |《剑指offer》面试题31|栈的压入弹出序列|||
 |lc:20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[python](./solutions/20.md)|easy|
-|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[python](./solutions/32.md)|hard|
-
-
-    + 《剑指offer》面试题59(题目一)：[滑动窗口的最大值](#滑动窗口的最大值)（`队列`）
+|lc:32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[python](./solutions/32.md)|hard|
+|《剑指offer》面试题59(题目一)|滑动窗口的最大值|||
 
 
 ### 数学
-- *斐波那契数列*
-    + 《剑指offer》面试题10(题目一)：[斐波那契数列](#斐波那契数列)（`动态规划`）
-    + 《剑指offer》面试题10(题目二)：[跳台阶](#跳台阶)（`动态规划`）
-    + 《剑指offer》面试题10(题目三)：[变态跳台阶](#变态跳台阶)（`动态规划`）
-    + 《剑指offer》面试题10(题目四)：[矩形覆盖](#矩形覆盖)（`动态规划`）
-- *特殊*
-    + 《剑指offer》面试题49：[丑数](#丑数)
-    + Leetcode36：[有效数独](#有效数独)（`哈希表` `medium`）
+|来源|题目|本地题解报告|难度|
+|----|----|----|----|
+|《剑指offer》面试题10(题目一)|斐波那契数列|||
+|《剑指offer》面试题10(题目二)|跳台阶|||
+|《剑指offer》面试题10(题目三)|变态跳台阶|||
+|《剑指offer》面试题10(题目四)|矩形覆盖|||
+|《剑指offer》面试题49|丑数|||
+|lc:36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[python](./solutions/36.md)|medium|
+
     + Leetcode204：[计数质数](#计数质数)（`easy`）
     + Leetcode279：[完美平方数](#完美平方数)（`动态规划` `medium`）
 - *进制*
