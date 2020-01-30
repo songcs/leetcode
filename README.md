@@ -247,19 +247,19 @@
 |《剑指offer》面试题49|丑数|||
 |lc:36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[python](./solutions/36.md)|medium|
 |lc:204|[Count Primes](https://leetcode.com/problems/count-primes/)|[python](./solutions/204.md)|easy|
-|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[python](./solutions/279.md)|medium|
+|lc:279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[python](./solutions/279.md)|medium|
 |《剑指offer》面试题15|二进制中1的个数|||
 |lc:7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[python](./solutions/7.md)|easy|
 |lc:43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[python](./solutions/43.md)|medium|
-|66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[python](./solutions/66.md)|easy|
-|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[python](./solutions/171.md)|easy|
-|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[python](./solutions/190.md)|easy|
-|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python](./solutions/412.md)|easy|
+|lc:66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[python](./solutions/66.md)|easy|
+|lc:171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[python](./solutions/171.md)|easy|
+|lc:190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[python](./solutions/190.md)|easy|
+|lc:412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python](./solutions/412.md)|easy|
+|《剑指offer》面试题16|数值的整数次方|||
+|lc:69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[python](./solutions/69.md)|easy|
+|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[python](./solutions/166.md)|medium|
 
-    + Leetcode412：[Fizz Buzz](#fizz-buzz)（`easy`）
-- *次方与小数*
-    + 《剑指offer》面试题16：[数值的整数次方](#数值的整数次方)（`位运算` `鲁棒性`）
-    + Leetcode69：[求x的平方根](#求x的平方根)（`二分查找` `鲁棒性` `easy`）
+
     + Leetcode166：[求分数的值](#求分数的值)（`鲁棒性` `medium`）
     + Leetcode326：[3的幂](#3的幂)（`easy`）
 - *找规律*
@@ -451,6 +451,7 @@
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[python](./solutions/148.md)|medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
+|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[python](./solutions/166.md)|medium|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[python](./solutions/171.md)|easy|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[cpp](./solutions/179.md)[python2](./solutions/179.md)|medium|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[python](./solutions/188.md)|hard|
