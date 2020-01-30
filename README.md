@@ -257,23 +257,21 @@
 |lc:412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python](./solutions/412.md)|easy|
 |《剑指offer》面试题16|数值的整数次方|||
 |lc:69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[python](./solutions/69.md)|easy|
-|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[python](./solutions/166.md)|medium|
-|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[python](./solutions/326.md)|easy|
+|lc:166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[python](./solutions/166.md)|medium|
+|lc:326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[python](./solutions/326.md)|easy|
 |《剑指offer》面试题43|整数1~n中1出现的次数|||
-|38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[python](./solutions/38.md)|easy|
-|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[python](./solutions/172.md)|easy|
+|lc:38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[python](./solutions/38.md)|easy|
+|lc:172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[python](./solutions/172.md)|easy|
 |《剑指offer》面试题64|求1~n的和|||
 |《剑指offer》面试题65|不用加减乘除做加法|||
-|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[python](./solutions/29.md)|medium|
-|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[python](./solutions/150.md)|medium|
-|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[python](./solutions/227.md)|medium|
+|lc:29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[python](./solutions/29.md)|medium|
+|lc:150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[python](./solutions/150.md)|medium|
+|lc:227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[python](./solutions/227.md)|medium|
+|lc:11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[python](./solutions/11.md)|medium|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[python](./solutions/42.md)|hard|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[python](./solutions/55.md)|medium|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[python](./solutions/84.md)|hard|
 
-
-- *几何*
-    + Leetcode11：[盛最多水的容器](#盛最多水的容器)（`双指针` `medium`）
-    + Leetcode42：[接雨水](#接雨水)（`hard`）
-    + Leetcode55：[合并区间](#合并区间)（`medium`）
-    + Leetcode84：[柱状图中最大的矩形](#柱状图中最大的矩形)（`栈` `hard`）
     + Leetcode149：[直线上最多的点数](#直线上最多的点数)（`哈希` `hard`）
     + Leetcode218：[天际线问题](#天际线问题)（`hard`）
 
@@ -423,6 +421,7 @@
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|||
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[python](./solutions/83.md)|easy|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[python](./solutions/84.md)|hard|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[python](./solutions/88.md)|easy|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[python](./solutions/90.md)|medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[python](./solutions/91.md)|medium|
