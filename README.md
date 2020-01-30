@@ -272,19 +272,19 @@
 |lc:55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[python](./solutions/55.md)|medium|
 |lc:84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[python](./solutions/84.md)|hard|
 |lc:149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[python](./solutions/149.md)|hard|
-|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)||hard|
+|lc:218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)||hard|
 
 ### 图
 |来源|题目|本地题解报告|难度|
 |----|----|----|----|
 |《剑指offer》面试题13|机器人的运动范围|||
-|62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[python](./solutions/62.md)|medium|
-|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[python](./solutions/63.md)|medium|
-|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[python](./solutions/64.md)|medium|
-|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[python](./solutions/130.md)|medium|
-|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[python](./solutions/200.md)|medium|
+|lc:62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[python](./solutions/62.md)|medium|
+|lc:63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[python](./solutions/63.md)|medium|
+|lc:64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[python](./solutions/64.md)|medium|
+|lc:130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[python](./solutions/130.md)|medium|
+|lc:200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[python](./solutions/200.md)|medium|
+|lc:695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[python](./solutions/695.md)|medium|
 
-    + Leetcode695：[岛屿的最大面积](#岛屿的最大面积)（`DFS` `easy`）
     + Leetcode329：[矩阵中的最长递增路径](#矩阵中的最长递增路径)（`DFS` `动态规划` `hard`）
     + Leetcode55：[跳步游戏](#跳步游戏)（`贪心` `medium`）
     + Leetcode45：[跳步游戏II](#跳步游戏ii)（`动态规划` `BFS` `hard`）
@@ -488,5 +488,6 @@
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[python](./solutions/395.md)|medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python](./solutions/412.md)|easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[python](./solutions/695.md)|medium|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[python](./solutions/863.md)|medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[python](./solutions/1143.md)|medium|
