@@ -288,37 +288,19 @@
 |lc:55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[python](./solutions/55.md)|medium|
 |lc:45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|||
 |lc:207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[python](./solutions/207.md)|medium|
-
-    + Leetcode210：[课程安排II](#课程安排ii)（`BFS` `DFS` `medium`）
-- *最短路径*
-    + hihoCoder1081：[Dijkstra算法](#dijkstra算法)（`dijkstra` `Lv.2`）
-- *最小生成树*
-    + hihoCoder1097：[连通所有城市的最短道路](#连通所有城市的最短道路)（`prim` `Lv.2`）
-
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[python](./solutions/210.md)|medium|
+|hihoCoder1081|Dijkstra算法|||
+|hihoCoder1097|连通所有城市的最短道路|||
 
 ### 设计
+|来源|题目|本地题解报告|难度|
+|----|----|----|----|
+
 - Leetcode146：[LRU缓存机制](#lru缓存机制)（`哈希表` `链表` `hard`）
 - Leetcode208：[实现Trie树(前缀树)](#实现trie树)（`Trie` `设计` `medium`）
 - Leetcode341：[扁平化嵌套列表迭代器](#扁平化嵌套列表迭代器)（`栈` `medium`）
 - Leetcode380：[实现O(1)的插入删除与随机获取](#实现o1的插入删除与随机获取)（`哈希表` `medium`）
 
-### 海量数据
-- *公共部分*
-    + 《王道程序员求职宝典》：[两个文件共同的url](#两个文件共同的url)（`hash` `分治`）
-- *频率最高*
-    + 《王道程序员求职宝典》：[按频率排序多个文件中的query记录](#按频率排序多个文件中的query记录)（`hash` `分治`）
-    + 《王道程序员求职宝典》：[找出文件中频率最高的100个词](#找出文件中频率最高的100个词)（`Top K` `hash` `分治`）
-    + 《王道程序员求职宝典》：[海量日志中提取访问百度次数最多的IP](#海量日志中提取访问百度次数最多的ip)（`Top K` `hash` `分治`）
-- *中位数*
-    + BAT面试经典题：[100亿个整数的中位数](#100亿个整数的中位数)（`二分查找` `分桶`）
-- *位图*
-    + 《王道程序员求职宝典》：[实现位图](#实现位图)（`位图`）
-    + 《王道程序员求职宝典》：[统计不同号码的个数](#统计不同号码的个数)（`位图`）
-    + 《王道程序员求职宝典》：[查找某个数是否在40亿个数当中](#查找某个数是否在40亿个数当中)（`位图`）
-    + 《王道程序员求职宝典》：[2.5亿整数中只出现一次的整数](#25亿整数中只出现一次的整数)（`位图`）
-- *其它*
-    + 《王道程序员求职宝典》：[布隆过滤器](#布隆过滤器)
-    + 《王道程序员求职宝典》：[倒排索引法](#倒排索引法)
 
 
 ### C/C++基础
@@ -461,6 +443,7 @@
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[python](./solutions/203.md)|easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[python](./solutions/204.md)|easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[python](./solutions/207.md)|medium|
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[python](./solutions/210.md)|medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[python](./solutions/212.md)|hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[python](./solutions/213.md)|medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
