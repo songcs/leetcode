@@ -288,34 +288,17 @@
 |lc:55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[python](./solutions/55.md)|medium|
 |lc:45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|||
 |lc:207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[python](./solutions/207.md)|medium|
-|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[python](./solutions/210.md)|medium|
+|lc:210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[python](./solutions/210.md)|medium|
 |hihoCoder1081|Dijkstra算法|||
 |hihoCoder1097|连通所有城市的最短道路|||
 
 ### 设计
 |来源|题目|本地题解报告|难度|
 |----|----|----|----|
-
-- Leetcode146：[LRU缓存机制](#lru缓存机制)（`哈希表` `链表` `hard`）
-- Leetcode208：[实现Trie树(前缀树)](#实现trie树)（`Trie` `设计` `medium`）
-- Leetcode341：[扁平化嵌套列表迭代器](#扁平化嵌套列表迭代器)（`栈` `medium`）
-- Leetcode380：[实现O(1)的插入删除与随机获取](#实现o1的插入删除与随机获取)（`哈希表` `medium`）
-
-
-
-### C/C++基础
-- *C库函数*
-    + [实现strlen](#1实现strlen)
-    + [实现strcmp](#2实现strcmp)
-    + [实现strcat](#3实现strcat)
-    + [实现strcpy](#4实现strcpy)
-    + [实现strstr](#子串查找)
-    + [实现memcpy](#1实现memcpy)
-- *结构体与联合*
-    + [实现一个函数确定主机字节序](#1实现一个函数确定主机字节序)
-    + [实现计算结构体成员偏移量的宏](#2实现计算结构体成员偏移量的宏)
-- *动态内存管理*
-    + [手写实现智能指针](#手写实现智能指针)
+|lc:146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|||
+|lc:208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|||
+|lc:341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|||
+|lc:380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|||
 
 ## leetcode
 
