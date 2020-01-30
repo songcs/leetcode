@@ -268,11 +268,11 @@
 |lc:150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[python](./solutions/150.md)|medium|
 |lc:227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[python](./solutions/227.md)|medium|
 |lc:11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[python](./solutions/11.md)|medium|
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[python](./solutions/42.md)|hard|
-|55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[python](./solutions/55.md)|medium|
-|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[python](./solutions/84.md)|hard|
+|lc:42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[python](./solutions/42.md)|hard|
+|lc:55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[python](./solutions/55.md)|medium|
+|lc:84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[python](./solutions/84.md)|hard|
+|lc:149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[python](./solutions/149.md)|hard|
 
-    + Leetcode149：[直线上最多的点数](#直线上最多的点数)（`哈希` `hard`）
     + Leetcode218：[天际线问题](#天际线问题)（`hard`）
 
 ### 图
@@ -444,6 +444,7 @@
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[python](./solutions/140.md)|hard|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[python](./solutions/141.md)|easy|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[python](./solutions/148.md)|medium|
+|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[python](./solutions/149.md)|hard|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[python](./solutions/150.md)|medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
