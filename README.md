@@ -284,12 +284,11 @@
 |lc:130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[python](./solutions/130.md)|medium|
 |lc:200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[python](./solutions/200.md)|medium|
 |lc:695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[python](./solutions/695.md)|medium|
+|lc:329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)||hard|
+|lc:55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[python](./solutions/55.md)|medium|
+|lc:45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|||
+|lc:207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[python](./solutions/207.md)|medium|
 
-    + Leetcode329：[矩阵中的最长递增路径](#矩阵中的最长递增路径)（`DFS` `动态规划` `hard`）
-    + Leetcode55：[跳步游戏](#跳步游戏)（`贪心` `medium`）
-    + Leetcode45：[跳步游戏II](#跳步游戏ii)（`动态规划` `BFS` `hard`）
-- *拓扑排序*
-    + Leetcode207：[课程安排](#课程安排)（`BFS` `DFS` `medium`）
     + Leetcode210：[课程安排II](#课程安排ii)（`BFS` `DFS` `medium`）
 - *最短路径*
     + hihoCoder1081：[Dijkstra算法](#dijkstra算法)（`dijkstra` `Lv.2`）
@@ -461,6 +460,7 @@
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[python](./solutions/200.md)|medium|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[python](./solutions/203.md)|easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[python](./solutions/204.md)|easy|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[python](./solutions/207.md)|medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[python](./solutions/212.md)|hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[python](./solutions/213.md)|medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
