@@ -262,13 +262,12 @@
 |《剑指offer》面试题43|整数1~n中1出现的次数|||
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[python](./solutions/38.md)|easy|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[python](./solutions/172.md)|easy|
+|《剑指offer》面试题64|求1~n的和|||
+|《剑指offer》面试题65|不用加减乘除做加法|||
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[python](./solutions/29.md)|medium|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[python](./solutions/150.md)|medium|
 
-- *条件限制*
-    + 《剑指offer》面试题64：[求1~n的和](#求1n的和)
-    + 《剑指offer》面试题65：[不用加减乘除做加法](#不用加减乘除做加法)（`位运算`）
-    + Leetcode29：[不用乘除取模实现整数除法](#不用乘除取模实现整数除法)（`位运算` `medium`）
-- *表达式求值*
-    + Leetcode150：[逆波兰表达式求值](#逆波兰表达式求值)（`栈` `medium`）
+
     + Leetcode227：[基础的计算器](#基础的计算器)（`medium`）
 - *几何*
     + Leetcode11：[盛最多水的容器](#盛最多水的容器)（`双指针` `medium`）
@@ -446,6 +445,7 @@
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[python](./solutions/140.md)|hard|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[python](./solutions/141.md)|easy|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[python](./solutions/148.md)|medium|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[python](./solutions/150.md)|medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[python](./solutions/166.md)|medium|
