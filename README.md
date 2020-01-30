@@ -258,10 +258,8 @@
 |《剑指offer》面试题16|数值的整数次方|||
 |lc:69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[python](./solutions/69.md)|easy|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[python](./solutions/166.md)|medium|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[python](./solutions/326.md)|easy|
 
-
-    + Leetcode166：[求分数的值](#求分数的值)（`鲁棒性` `medium`）
-    + Leetcode326：[3的幂](#3的幂)（`easy`）
 - *找规律*
     + 《剑指offer》面试题43：[整数1~n中1出现的次数](#整数1n中1出现的次数)
     + Leetcode38：[报数](#报数)（`字符串` `easy`）
@@ -474,6 +472,7 @@
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[python](./solutions/315.md)|hard|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[python](./solutions/322.md)|medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[python](./solutions/324.md)|medium|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[python](./solutions/326.md)|easy|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[python](./solutions/328.md)|medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[python](./solutions/334.md)|medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[python](./solutions/337.md)|medium|
