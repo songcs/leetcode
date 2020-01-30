@@ -272,16 +272,17 @@
 |lc:55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[python](./solutions/55.md)|medium|
 |lc:84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[python](./solutions/84.md)|hard|
 |lc:149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[python](./solutions/149.md)|hard|
-
-    + Leetcode218：[天际线问题](#天际线问题)（`hard`）
+|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)||hard|
 
 ### 图
-- *遍历*
-    + 《剑指offer》面试题13：[机器人的运动范围](#机器人的运动范围)（`DFS`）
-    + Leetcode62：[左上角到右下角的路径数](#左上角到右下角的路径数)（`DFS` `动态规划` `medium`）
-    + Leetcode63：[左上角到右下角的路径数II](#左上角到右下角的路径数ii)（`DFS` `动态规划` `medium` ）
-    + Leetcode64：[左上角到右下角的最短路径](#左上角到右下角的最短路径)（`DFS` `动态规划` `medium` ）
-    + Leetcode130：[被包围的区域](#被包围的区域)（`DFS` `medium`）
+|来源|题目|本地题解报告|难度|
+|----|----|----|----|
+|《剑指offer》面试题13|机器人的运动范围|||
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[python](./solutions/62.md)|medium|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[python](./solutions/63.md)|medium|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[python](./solutions/64.md)|medium|
+|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[python](./solutions/130.md)|medium|
+
     + Leetcode200：[岛屿的数量](#岛屿的数量)（`DFS` `easy`）
     + Leetcode695：[岛屿的最大面积](#岛屿的最大面积)（`DFS` `easy`）
     + Leetcode329：[矩阵中的最长递增路径](#矩阵中的最长递增路径)（`DFS` `动态规划` `hard`）
@@ -437,6 +438,7 @@
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[python](./solutions/125.md)|easy|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[python](./solutions/127.md)|medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[python](./solutions/128.md)|hard|
+|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[python](./solutions/130.md)|medium|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[python](./solutions/131.md)|medium|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[python](./solutions/134.md)|medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
