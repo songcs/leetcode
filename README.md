@@ -390,8 +390,10 @@
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[python](./solutions/84.md)|hard|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[python](./solutions/86.md)|medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[python](./solutions/88.md)|easy|
+|89|[Gray Code](https://leetcode.com/problems/gray-code/)|[python](./solutions/89.md)|medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[python](./solutions/90.md)|medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[python](./solutions/91.md)|medium|
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[python](./solutions/92.md)|medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[python](./solutions/94.md)|medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[python](./solutions/98.md)|medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[python](./solutions/108.md)|easy|
