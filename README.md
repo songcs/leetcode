@@ -396,6 +396,7 @@
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[python](./solutions/92.md)|medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[python](./solutions/93.md)|medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[python](./solutions/94.md)|medium|
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[python](./solutions/95.md)|medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[python](./solutions/98.md)|medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[python](./solutions/108.md)|easy|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[python](./solutions/109.md)|medium|
