@@ -385,6 +385,7 @@
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|[python](./solutions/79.md)|medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[python](./solutions/80.md)|medium|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[python](./solutions/82.md)|medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[python](./solutions/83.md)|easy|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[python](./solutions/84.md)|hard|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[python](./solutions/88.md)|easy|
