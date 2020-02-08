@@ -388,6 +388,7 @@
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[python](./solutions/82.md)|medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[python](./solutions/83.md)|easy|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[python](./solutions/84.md)|hard|
+|86|[Partition List](https://leetcode.com/problems/partition-list/)|[python](./solutions/86.md)|medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[python](./solutions/88.md)|easy|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[python](./solutions/90.md)|medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[python](./solutions/91.md)|medium|
