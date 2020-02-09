@@ -437,6 +437,7 @@
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[python](./solutions/139.md)|medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[python](./solutions/140.md)|hard|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[python](./solutions/141.md)|easy|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[python](./solutions/142.md)|medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[python](./solutions/148.md)|medium|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[python](./solutions/149.md)|hard|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[python](./solutions/150.md)|medium|
