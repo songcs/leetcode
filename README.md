@@ -433,6 +433,7 @@
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[python](./solutions/134.md)|medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[python](./solutions/137.md)|medium|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[python](./solutions/138.md)|medium|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[python](./solutions/139.md)|medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[python](./solutions/140.md)|hard|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[python](./solutions/141.md)|easy|
