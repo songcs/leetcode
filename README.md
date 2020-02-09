@@ -461,6 +461,7 @@
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[python](./solutions/188.md)|hard|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[python](./solutions/189.md)|easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[python](./solutions/190.md)|easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[python](./solutions/191.md)|easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[python](./solutions/189.md)|easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[python](./solutions/200.md)|medium|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[python](./solutions/203.md)|easy|
