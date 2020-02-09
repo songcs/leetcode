@@ -429,9 +429,10 @@
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[python](./solutions/129.md)|medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[python](./solutions/130.md)|medium|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[python](./solutions/131.md)|medium|
-|133|[]|||
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[python](./solutions/133.md)|medium|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[python](./solutions/134.md)|medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[python](./solutions/137.md)|medium|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[python](./solutions/139.md)|medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[python](./solutions/140.md)|hard|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[python](./solutions/141.md)|easy|
