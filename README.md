@@ -426,6 +426,7 @@
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[python](./solutions/125.md)|easy|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[python](./solutions/127.md)|medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[python](./solutions/128.md)|hard|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[python](./solutions/129.md)|medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[python](./solutions/130.md)|medium|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[python](./solutions/131.md)|medium|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[python](./solutions/134.md)|medium|
