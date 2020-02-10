@@ -469,6 +469,7 @@
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[python](./solutions/202.md)|easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[python](./solutions/203.md)|easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[python](./solutions/204.md)|easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[python](./solutions/205.md)|easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[python](./solutions/207.md)|medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[python](./solutions/210.md)|medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[python](./solutions/212.md)|hard|
