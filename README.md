@@ -466,6 +466,7 @@
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[python](./solutions/199.md)|medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[python](./solutions/200.md)|medium|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[python](./solutions/201.md)|medium|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[python](./solutions/202.md)|easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[python](./solutions/203.md)|easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[python](./solutions/204.md)|easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[python](./solutions/207.md)|medium|
