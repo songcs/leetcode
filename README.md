@@ -481,6 +481,7 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[python](./solutions/219.md)|easy|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[python](./solutions/220.md)|medium|
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[python](./solutions/221.md)|medium|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[python](./solutions/227.md)|medium|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[python](./solutions/234.md)|easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
