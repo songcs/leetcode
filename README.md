@@ -489,6 +489,7 @@
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[python](./solutions/228.md)|medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[python](./solutions/229.md)|medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[python](./solutions/230.md)|medium|
+|231|[https://leetcode.com/problems/power-of-two/](https://leetcode.com/problems/power-of-two/)|[python](./solutions/231.md)|easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[python](./solutions/234.md)|easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
