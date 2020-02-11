@@ -486,6 +486,7 @@
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[python](./solutions/223.md)|medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[python](./solutions/226.md)|easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[python](./solutions/227.md)|medium|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[python](./solutions/228.md)|medium|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[python](./solutions/234.md)|easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
