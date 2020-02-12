@@ -502,6 +502,7 @@
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[python](./solutions/258.md)|easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[python](./solutions/260.md)|medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[python](./solutions/263.md)|easy|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[python](./solutions/264.md)|medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[python](./solutions/279.md)|medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./solutions/283.md)|easy|
