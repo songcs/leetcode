@@ -513,6 +513,7 @@
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[python](./solutions/289.md)|medium|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[python](./solutions/290.md)|easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/submissions/)|[python](./solutions/292.md)|easy|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[python](./solutions/299.md)|easy|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[python](./solutions/300.md)|medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[python](./solutions/315.md)|hard|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[python](./solutions/322.md)|medium|
