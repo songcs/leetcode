@@ -492,6 +492,7 @@
 |231|[https://leetcode.com/problems/power-of-two/](https://leetcode.com/problems/power-of-two/)|[python](./solutions/231.md)|easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[python](./solutions/234.md)|easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[python](./solutions/235.md)|easy|
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[python](./solutions/236.md)|medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[python](./solutions/279.md)|medium|
