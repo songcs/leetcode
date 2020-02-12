@@ -518,6 +518,7 @@
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[python](./solutions/303.md)|easy|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[python](./solutions/304.md)|medium|
 |306|[Additive Number](https://leetcode.com/problems/additive-number/)|[python](./solutions/306.md)|medium|
+|307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[python](./solutions/307.md)|medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[python](./solutions/315.md)|hard|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[python](./solutions/322.md)|medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[python](./solutions/324.md)|medium|
