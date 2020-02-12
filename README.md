@@ -499,6 +499,7 @@
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[python](./solutions/241.md)|medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[python](./solutions/257.md)|easy|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[python](./solutions/258.md)|easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[python](./solutions/279.md)|medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./solutions/283.md)|easy|
