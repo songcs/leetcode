@@ -530,6 +530,7 @@
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[python](./solutions/326.md)|easy|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[python](./solutions/328.md)|medium|
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|[python](./solutions/331.md)|medium|
+|332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[python](./solutions/332.md)|medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[python](./solutions/334.md)|medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[python](./solutions/337.md)|medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[python](./solutions/344.md)|easy|
