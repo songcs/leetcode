@@ -535,6 +535,7 @@
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[python](./solutions/337.md)|medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[python](./solutions/338.md)|medium|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[python](./solutions/341.md)|medium|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[python](./solutions/342.md)|easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[python](./solutions/344.md)|easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[python](./solutions/347.md)|medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[python](./solutions/350.md)|easy|
