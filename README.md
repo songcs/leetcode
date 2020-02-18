@@ -549,6 +549,7 @@
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[python](./solutions/371.md)|easy|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)|[python](./solutions/372.md)|medium|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|[python](./solutions/373.md)|medium|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[python](./solutions/374.md)|easy|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[python](./solutions/378.md)|medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[python](./solutions/384.md)|medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[python](./solutions/395.md)|medium|
