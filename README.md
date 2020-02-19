@@ -554,6 +554,7 @@
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[python](./solutions/376.md)|medium|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[python](./solutions/377.md)|medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[python](./solutions/378.md)|medium|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[python](./solutions/383.md)|easy|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[python](./solutions/384.md)|medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[python](./solutions/395.md)|medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python](./solutions/412.md)|easy|
