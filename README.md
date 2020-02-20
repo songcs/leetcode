@@ -567,6 +567,7 @@
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[python](./solutions/397.md)|medium|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[python](./solutions/398.md)|medium|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[python](./solutions/399.md)|medium|
+|400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[python](./solutions/400.md)|medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python](./solutions/412.md)|easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[python](./solutions/695.md)|medium|
