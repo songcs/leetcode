@@ -557,6 +557,7 @@
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[python](./solutions/383.md)|easy|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[python](./solutions/384.md)|medium|
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[python](./solutions/386.md)|medium|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[python](./solutions/387.md)|easy|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[python](./solutions/395.md)|medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python](./solutions/412.md)|easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
