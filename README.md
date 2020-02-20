@@ -560,6 +560,7 @@
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[python](./solutions/387.md)|easy|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|[python](./solutions/388.md)|medium|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[python](./solutions/389.md)|easy|
+|390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[python](./solutions/390.md)|medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[python](./solutions/395.md)|medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python](./solutions/412.md)|easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
