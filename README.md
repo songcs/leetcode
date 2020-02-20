@@ -564,6 +564,7 @@
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[python](./solutions/392.md)|easy|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[python](./solutions/394.md)|medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[python](./solutions/395.md)|medium|
+|397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[python](./solutions/397.md)|medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python](./solutions/412.md)|easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[python](./solutions/695.md)|medium|
