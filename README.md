@@ -506,6 +506,7 @@
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
 |243|[最短单词距离](https://leetcode-cn.com/problems/shortest-word-distance/)|[python](./solutions/243.md)|easy|
 |244|[最短单词距离 II](https://leetcode-cn.com/problems/shortest-word-distance-ii/)|[python](./solutions/244.md)|medium|
+|245|[最短单词距离 III](https://leetcode-cn.com/problems/shortest-word-distance-iii/)|[python](./solutions/245.md)|medium|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[python](./solutions/257.md)|easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[python](./solutions/258.md)|easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[python](./solutions/260.md)|medium|
