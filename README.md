@@ -452,6 +452,7 @@
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[python](./solutions/160.md)|easy|
 |161|[相隔为 1 的编辑距离](https://leetcode-cn.com/problems/one-edit-distance/)|[python](./solutions/161.md)|medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
+|163|[缺失的区间](https://leetcode-cn.com/problems/missing-ranges/)|[python](./solutions/163.md)|medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[python](./solutions/165.md)|medium|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[python](./solutions/166.md)|medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[python](./solutions/167.md)|easy|
