@@ -515,6 +515,7 @@
 |252|[会议室](https://leetcode-cn.com/problems/meeting-rooms/)|[python](./solutions/252.md)|easy|
 |253|[会议室 II](https://leetcode-cn.com/problems/meeting-rooms-ii/)|[python](./solutions/253.md)|medium|
 |254|[因子的组合](https://leetcode-cn.com/problems/factor-combinations/)|[python](./solutions/254.md)|medium|
+|255|[验证前序遍历序列二叉搜索树](https://leetcode-cn.com/problems/verify-preorder-sequence-in-binary-search-tree/)|[python](./solutions/255.md)|medium|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[python](./solutions/257.md)|easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[python](./solutions/258.md)|easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[python](./solutions/260.md)|medium|
