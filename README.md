@@ -521,6 +521,7 @@
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[python](./solutions/258.md)|easy|
 |259|[较小的三数之和](https://leetcode-cn.com/problems/3sum-smaller/)|[python](./solutions/259.md)|medium|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[python](./solutions/260.md)|medium|
+|261|[以图判树](https://leetcode-cn.com/problems/graph-valid-tree/)|[python](./solutions/261.md)|medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[python](./solutions/263.md)|easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[python](./solutions/264.md)|medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
