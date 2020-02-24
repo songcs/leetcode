@@ -527,6 +527,7 @@
 |266|[回文排列](https://leetcode-cn.com/problems/palindrome-permutation/)|[python](./solutions/266.md)|easy|
 |267|[回文排列 II](https://leetcode-cn.com/problems/palindrome-permutation-ii/)|[python](./solutions/267.md)|medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
+|270|[最接近的二叉搜索树值](https://leetcode-cn.com/problems/closest-binary-search-tree-value/)|[python](./solutions/270.md)|easy|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[python](./solutions/274.md)|medium|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[python](./solutions/275.md)|medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[python](./solutions/278.md)|easy|
