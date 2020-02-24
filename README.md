@@ -509,6 +509,7 @@
 |245|[最短单词距离 III](https://leetcode-cn.com/problems/shortest-word-distance-iii/)|[python](./solutions/245.md)|medium|
 |246|[中心对称数](https://leetcode-cn.com/problems/strobogrammatic-number/)|[python](./solutions/246.md)|easy|
 |247|[中心对称数 II](https://leetcode-cn.com/problems/strobogrammatic-number-ii/)|[python](./solutions/247.md)|medium|
+|249|[移位字符串分组](https://leetcode-cn.com/problems/group-shifted-strings/)|[python](./solutions/249.md)|medium|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[python](./solutions/257.md)|easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[python](./solutions/258.md)|easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[python](./solutions/260.md)|medium|
