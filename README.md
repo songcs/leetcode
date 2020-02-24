@@ -511,6 +511,7 @@
 |247|[中心对称数 II](https://leetcode-cn.com/problems/strobogrammatic-number-ii/)|[python](./solutions/247.md)|medium|
 |249|[移位字符串分组](https://leetcode-cn.com/problems/group-shifted-strings/)|[python](./solutions/249.md)|medium|
 |250|[统计同值子树](https://leetcode-cn.com/problems/count-univalue-subtrees/)|[python](./solutions/250.md)|medium|
+|251|[展开二维向量](https://leetcode-cn.com/problems/flatten-2d-vector/)|[python](./solutions/251.md)|medium|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[python](./solutions/257.md)|easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[python](./solutions/258.md)|easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[python](./solutions/260.md)|medium|
