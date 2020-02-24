@@ -531,6 +531,7 @@
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[python](./solutions/274.md)|medium|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[python](./solutions/275.md)|medium|
 |276|[栅栏涂色](https://leetcode-cn.com/problems/paint-fence/)|[python](./solutions/276.md)|easy|
+|277|[搜寻名人](https://leetcode-cn.com/problems/find-the-celebrity/)|[python](./solutions/277.md)|medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[python](./solutions/278.md)|easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[python](./solutions/279.md)|medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./solutions/283.md)|easy|
