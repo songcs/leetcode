@@ -519,6 +519,7 @@
 |256|[粉刷房子](https://leetcode-cn.com/problems/paint-house/)|[python](./solutions/256.md)|easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[python](./solutions/257.md)|easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[python](./solutions/258.md)|easy|
+|259|[较小的三数之和](https://leetcode-cn.com/problems/3sum-smaller/)|[python](./solutions/259.md)|medium|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[python](./solutions/260.md)|medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[python](./solutions/263.md)|easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[python](./solutions/264.md)|medium|
