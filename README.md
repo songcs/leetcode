@@ -525,6 +525,7 @@
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[python](./solutions/263.md)|easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[python](./solutions/264.md)|medium|
 |266|[回文排列](https://leetcode-cn.com/problems/palindrome-permutation/)|[python](./solutions/266.md)|easy|
+|267|[回文排列 II](https://leetcode-cn.com/problems/palindrome-permutation-ii/)|[python](./solutions/267.md)|medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[python](./solutions/268.md)|easy|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[python](./solutions/274.md)|medium|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[python](./solutions/275.md)|medium|
