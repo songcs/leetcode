@@ -557,6 +557,7 @@
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[python](./solutions/310.md)|medium|
 |311|[稀疏矩阵的乘法](https://leetcode-cn.com/problems/sparse-matrix-multiplication/)|[python](./solutions/311.md)|medium|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[python](./solutions/313.md)|medium|
+|314|[二叉树的垂直遍历](https://leetcode-cn.com/problems/binary-tree-vertical-order-traversal/)|[python](./solutions/314.md)|medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[python](./solutions/315.md)|hard|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[python](./solutions/318.md)|medium|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[python](./solutions/319.md)|medium|
