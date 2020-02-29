@@ -555,6 +555,7 @@
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[python](./solutions/307.md)|medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[python](./solutions/309.md)|medium|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[python](./solutions/310.md)|medium|
+|311|[稀疏矩阵的乘法](https://leetcode-cn.com/problems/sparse-matrix-multiplication/)|[python](./solutions/311.md)|medium|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[python](./solutions/313.md)|medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[python](./solutions/315.md)|hard|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[python](./solutions/318.md)|medium|
