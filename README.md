@@ -537,7 +537,6 @@
 |280|[摆动排序](https://leetcode-cn.com/problems/wiggle-sort/)|[python](./solutions/280.md)|medium|
 |281|[锯齿迭代器](https://leetcode-cn.com/problems/zigzag-iterator/)|[python](./solutions/281.md)|medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./solutions/283.md)|easy|
-|284|[列举单词的全部缩写](https://leetcode-cn.com/problems/generalized-abbreviation/)|[python](./solutions/284.md)|medium|
 |285|[二叉搜索树中的顺序后继](https://leetcode-cn.com/problems/inorder-successor-in-bst/)|[python](./solutions/285.md)|medium|
 |286|[墙与门](https://leetcode-cn.com/problems/walls-and-gates/)|[python](./solutions/286.md)|medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[python](./solutions/287.md)|medium|
@@ -562,6 +561,7 @@
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[python](./solutions/315.md)|hard|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[python](./solutions/318.md)|medium|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[python](./solutions/319.md)|medium|
+|320|[列举单词的全部缩写](https://leetcode-cn.com/problems/generalized-abbreviation/)|[python](./solutions/284.md)|medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[python](./solutions/322.md)|medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[python](./solutions/324.md)|medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[python](./solutions/326.md)|easy|
