@@ -537,6 +537,7 @@
 |280|[摆动排序](https://leetcode-cn.com/problems/wiggle-sort/)|[python](./solutions/280.md)|medium|
 |281|[锯齿迭代器](https://leetcode-cn.com/problems/zigzag-iterator/)|[python](./solutions/281.md)|medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[python](./solutions/283.md)|easy|
+|284|[列举单词的全部缩写](https://leetcode-cn.com/problems/generalized-abbreviation/)|[python](./solutions/284.md)|medium|
 |285|[二叉搜索树中的顺序后继](https://leetcode-cn.com/problems/inorder-successor-in-bst/)|[python](./solutions/285.md)|medium|
 |286|[墙与门](https://leetcode-cn.com/problems/walls-and-gates/)|[python](./solutions/286.md)|medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[python](./solutions/287.md)|medium|
