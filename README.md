@@ -546,6 +546,7 @@
 |292|[Nim Game](https://leetcode.com/problems/nim-game/submissions/)|[python](./solutions/292.md)|easy|
 |293|[翻转游戏](https://leetcode-cn.com/problems/flip-game/)|[python](./solutions/293.md)|easy|
 |294|[翻转游戏 II](https://leetcode-cn.com/problems/flip-game-ii/)|[python](./solutions/294.md)|medium|
+|298|[二叉树最长连续序列](https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence/)|[python](./solutions/298.md)|medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[python](./solutions/299.md)|easy|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[python](./solutions/300.md)|medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[python](./solutions/303.md)|easy|
