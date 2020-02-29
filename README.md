@@ -579,6 +579,7 @@
 |343|[Integer Break](https://leetcode.com/problems/integer-break/)|[python](./solutions/343.md)|medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[python](./solutions/344.md)|easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[python](./solutions/345.md)|easy|
+|346|[数据流中的移动平均值](https://leetcode-cn.com/problems/moving-average-from-data-stream/)|[python](./solutions/346.md)|easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[python](./solutions/347.md)|medium|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[python](./solutions/349.md)|easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[python](./solutions/350.md)|easy|
