@@ -565,6 +565,7 @@
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[python](./solutions/322.md)|medium|
 |323|[无向图中连通分量的数目](https://leetcode-cn.com/problems/number-of-connected-components-in-an-undirected-graph/)|[python](./solutions/323.md)|medium|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[python](./solutions/324.md)|medium|
+|325|[和等于 k 的最长子数组长度](https://leetcode-cn.com/problems/maximum-size-subarray-sum-equals-k/)|[python](./solutions/325.md)|medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[python](./solutions/326.md)|easy|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[python](./solutions/328.md)|medium|
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|[python](./solutions/331.md)|medium|
