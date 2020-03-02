@@ -587,6 +587,7 @@
 |360|[有序转化数组](https://leetcode-cn.com/problems/sort-transformed-array/)|[python](./solutions/360.md)|medium|
 |361|[轰炸敌人](https://leetcode-cn.com/problems/bomb-enemy/)|[python](./solutions/361.md)|medium|
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|[python](./solutions/365.md)|medium|
+|366|[寻找二叉树的叶子节点](https://leetcode-cn.com/problems/find-leaves-of-binary-tree/)|[python](./solutions/366.md)|medium|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[python](./solutions/367.md)|easy|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[python](./solutions/368.md)|medium|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[python](./solutions/371.md)|easy|
