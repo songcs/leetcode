@@ -558,6 +558,7 @@
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[python](./solutions/309.md)|medium|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[python](./solutions/310.md)|medium|
 |311|[稀疏矩阵的乘法](https://leetcode-cn.com/problems/sparse-matrix-multiplication/)|[python](./solutions/311.md)|medium|
+|312|[戳气球](https://leetcode-cn.com/problems/burst-balloons/)|[python](./solutions/312.md)|hard|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[python](./solutions/313.md)|medium|
 |314|[二叉树的垂直遍历](https://leetcode-cn.com/problems/binary-tree-vertical-order-traversal/)|[python](./solutions/314.md)|medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[python](./solutions/315.md)|hard|
