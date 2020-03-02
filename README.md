@@ -585,6 +585,7 @@
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[python](./solutions/350.md)|easy|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[python](./solutions/357.md)|medium|
 |360|[有序转化数组](https://leetcode-cn.com/problems/sort-transformed-array/)|[python](./solutions/360.md)|medium|
+|361|[轰炸敌人](https://leetcode-cn.com/problems/bomb-enemy/)|[python](./solutions/361.md)|medium|
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|[python](./solutions/365.md)|medium|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[python](./solutions/367.md)|easy|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[python](./solutions/368.md)|medium|
