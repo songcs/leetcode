@@ -591,6 +591,7 @@
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[python](./solutions/367.md)|easy|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[python](./solutions/368.md)|medium|
 |369|[给单链表加一](https://leetcode-cn.com/problems/plus-one-linked-list/)|[python](./solutions/369.md)|medium|
+|370|[区间加法](https://leetcode-cn.com/problems/range-addition/)|[python](./solutions/370.md)|medium|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[python](./solutions/371.md)|easy|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)|[python](./solutions/372.md)|medium|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|[python](./solutions/373.md)|medium|
