@@ -589,6 +589,7 @@
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[python](./solutions/357.md)|medium|
 |360|[有序转化数组](https://leetcode-cn.com/problems/sort-transformed-array/)|[python](./solutions/360.md)|medium|
 |361|[轰炸敌人](https://leetcode-cn.com/problems/bomb-enemy/)|[python](./solutions/361.md)|medium|
+|363|[矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[python](./solutions/363.md)|hard|
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|[python](./solutions/365.md)|medium|
 |366|[寻找二叉树的叶子节点](https://leetcode-cn.com/problems/find-leaves-of-binary-tree/)|[python](./solutions/366.md)|medium|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[python](./solutions/367.md)|easy|
