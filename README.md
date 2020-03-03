@@ -430,6 +430,7 @@
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[python](./solutions/129.md)|medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[python](./solutions/130.md)|medium|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[python](./solutions/131.md)|medium|
+|132|[分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)|[python](./solutions/132.md)|hard|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[python](./solutions/133.md)|medium|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[python](./solutions/134.md)|medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
