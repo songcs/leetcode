@@ -624,6 +624,7 @@
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[python](./solutions/695.md)|medium|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[python](./solutions/863.md)|medium|
 |994|[腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)|[python](./solutions/994.md)|easy|
+|1140|[石子游戏 II](https://leetcode-cn.com/problems/stone-game-ii/)|[python](./solutions/1140.md)|medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[python](./solutions/1143.md)|medium|
 |5344|[有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[python](./solutions/5344.md)|easy|
 |5345|[通过投票对团队排名](https://leetcode-cn.com/problems/rank-teams-by-votes/)|[python](./solutions/5345.md)|medium|
