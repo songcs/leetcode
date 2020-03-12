@@ -621,6 +621,7 @@
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[python](./solutions/400.md)|medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python](./solutions/412.md)|easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
+|572|[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)|[python](./solutions/572.md)|easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[python](./solutions/695.md)|medium|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[python](./solutions/863.md)|medium|
 |994|[腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)|[python](./solutions/994.md)|easy|
