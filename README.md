@@ -625,6 +625,7 @@
 |572|[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)|[python](./solutions/572.md)|easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[python](./solutions/695.md)|medium|
 |863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[python](./solutions/863.md)|medium|
+|907|[子数组的最小值之和](https://leetcode-cn.com/problems/sum-of-subarray-minimums/)|[python](./solutions/907.md)|medium|
 |994|[腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)|[python](./solutions/994.md)|easy|
 |1140|[石子游戏 II](https://leetcode-cn.com/problems/stone-game-ii/)|[python](./solutions/1140.md)|medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[python](./solutions/1143.md)|medium|
