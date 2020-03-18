@@ -637,3 +637,4 @@
 |100231|[面试题 08.11. 硬币](https://leetcode-cn.com/problems/coin-lcci/)|[python](./solutions/100231.md)|medium|
 |offer56|[面试题56 - II. 数组中数字出现的次数 II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)|[python](./solutions/offer56.md)|medium|
 |offer59|[面试题59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)|[python](./solutions/offer59.md)|medium|
+|offer61|[面试题61. 扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)|[python](./solutions/offer61.md)|easy|
