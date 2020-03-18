@@ -638,6 +638,7 @@
 |100231|[面试题 08.11. 硬币](https://leetcode-cn.com/problems/coin-lcci/)|[python](./solutions/100231.md)|medium|
 |offer13|[面试题13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)|[python](./solutions/offer13.md)|medium|
 |offer21|[面试题21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|[python](./solutions/offer21.md)|easy|
+|offer30|[面试题30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)|[python](./solutions/offer30.md)|easy|
 |offer56|[面试题56 - II. 数组中数字出现的次数 II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)|[python](./solutions/offer56.md)|medium|
 |offer59|[面试题59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)|[python](./solutions/offer59.md)|medium|
 |offer61|[面试题61. 扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)|[python](./solutions/offer61.md)|easy|
