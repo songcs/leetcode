@@ -1,27 +1,4 @@
 # 解法一
-- 52ms
-- 92%
-
-```python
-class Solution:
-    def singleNumber(self, nums: List[int]) -> int:
-        dic = {}
-        for n in nums:
-            if n not in dic: dic[n] = 1
-            else: dic[n] += 1
-        for k,v in dic.items():
-            if v!=3:return k
-```
-
-```python
-class Solution:
-    def singleNumber(self, nums: List[int]) -> int:
-        count = collections.Counter(nums)
-        for k,v in count.items():
-            if v!=3:return k
-```
-
-# 解法一
 - 432ms
 - 23%
 
