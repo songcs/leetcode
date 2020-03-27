@@ -627,6 +627,7 @@
 |437|[路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)|[python](./solutions/437.md)|easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
 |572|[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)|[python](./solutions/572.md)|easy|
+|683|[K 个空花盆](https://leetcode-cn.com/problems/k-empty-slots/)|[python](./solutions/683.md)|hard|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[python](./solutions/695.md)|medium|
 |848|[字母移位](https://leetcode-cn.com/problems/shifting-letters/)|[python](./solutions/848.md)|medium|
 |863|[二叉树中所有距离为 K 的结点](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[python](./solutions/863.md)|medium|
