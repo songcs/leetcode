@@ -307,16 +307,16 @@
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[python](./solutions/1.md)|easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[python](./solutions/2.md)|medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[python](./solutions/3.md)|medium|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[python](./solutions/4.md)|hard|
-|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[python](./solutions/5.md)|medium|
+|4|[寻找两个有序数组的中位数](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[python](./solutions/4.md)|hard|
+|5|[最长回文子串](https://leetcode.com/problems/longest-palindromic-substring/description/)|[python](./solutions/5.md)|medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[python](./solutions/6.md)|medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|[python](./solutions/7.md)|easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)|[python](./solutions/8.md)|medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[python](./solutions/9.md)|easy|
-|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)|[python](./solutions/10.md)|hard|
+|10|[正则表达式匹配](https://leetcode.com/problems/regular-expression-matching/description/)|[python](./solutions/10.md)|hard|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)|[python](./solutions/11.md)|medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/)|[python](./solutions/12.md)|medium|
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)|[python](./solutions/13.md)|easy|
+|13|[罗马数字转整数](https://leetcode.com/problems/roman-to-integer/description/)|[python](./solutions/13.md)|easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[python](./solutions/14.md)|easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)|[python](./solutions/15.md)|medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[python](./solutions/16.md)|medium|
@@ -328,34 +328,34 @@
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)|[python](./solutions/22.md)|medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[python](./solutions/23.md)|hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[python](./solutions/24.md)|mediun|
-|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[python](./solutions/25.md)|hard|
+|25|[K 个一组翻转链表](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[python](./solutions/25.md)|hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[python](./solutions/26.md)|easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[python](./solutions/27.md)|easy|
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[python](./solutions/28.md)|easy|
-|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[python](./solutions/29.md)|medium|
-|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[python](./solutions/30.md)|hard|
+|28|[实现 strStr()](https://leetcode.com/problems/implement-strstr/description/)|[python](./solutions/28.md)|easy|
+|29|[两数相除](https://leetcode.com/problems/divide-two-integers/description/)|[python](./solutions/29.md)|medium|
+|30|[串联所有单词的子串](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[python](./solutions/30.md)|hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[python](./solutions/31.md)|medium|
-|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[python](./solutions/32.md)|hard|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[python](./solutions/33.md)|medium|
-|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[python](./solutions/34.md)|medium|
+|32|[最长有效括号](https://leetcode.com/problems/longest-valid-parentheses/description/)|[python](./solutions/32.md)|hard|
+|33|[搜索旋转排序数组](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[python](./solutions/33.md)|medium|
+|34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[python](./solutions/34.md)|medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[python](./solutions/35.md) [cpp](./solutions/35.md)|easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[python](./solutions/36.md)|medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)|||
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|[python](./solutions/38.md)|easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[python](./solutions/39.md)|medium|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[python](./solutions/40.md)|medium|
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[python](./solutions/41.md)|hard|
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[python](./solutions/42.md)|hard|
-|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[python](./solutions/43.md)|medium|
-|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)|[python](./solutions/44.md)|hard|
+|41|[缺失的第一个正数](https://leetcode.com/problems/first-missing-positive/description/)|[python](./solutions/41.md)|hard|
+|42|[接雨水](https://leetcode.com/problems/trapping-rain-water/description/)|[python](./solutions/42.md)|hard|
+|43|[字符串相乘](https://leetcode.com/problems/multiply-strings/description/)|[python](./solutions/43.md)|medium|
+|44|[通配符匹配](https://leetcode.com/problems/wildcard-matching/description/)|[python](./solutions/44.md)|hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|||
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)|[python](./solutions/46.md)|medium|
-|47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[python](./solutions/47.md)|medium|
+|47|[全排列 II](https://leetcode.com/problems/permutations-ii/description/)|[python](./solutions/47.md)|medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[python](./solutions/48.md)|medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[python](./solutions/49.md)|medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[python](./solutions/50.md)|medium|
-|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[python](./solutions/51.md)|hard|
-|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|[python](./solutions/52.md)|hard|
+|51|[N皇后](https://leetcode.com/problems/n-queens/)|[python](./solutions/51.md)|hard|
+|52|[N皇后II](https://leetcode.com/problems/n-queens-ii/description/)|[python](./solutions/52.md)|hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[python](./solutions/53.md)|easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[python](./solutions/54.md)|medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[python](./solutions/55.md)|medium|
@@ -363,7 +363,7 @@
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/description/)|||
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[python](./solutions/58.md)|easy|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[python](./solutions/59.md)|medium|
-|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|[python](./solutions/60.md)|medium|
+|60|[第k个排列](https://leetcode.com/problems/permutation-sequence/description/)|[python](./solutions/60.md)|medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[python](./solutions/61.md)|medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[python](./solutions/62.md)|medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[python](./solutions/63.md)|medium|
@@ -375,46 +375,46 @@
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[python](./solutions/69.md)|easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[python](./solutions/70.md)|easy|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/description/)|[python](.solutions/71.md)|medium|
-|72|[Edit Distance](https://leetcode.com/problems/edit-distance/description/)|[python](./solutions/72.md)|medium|
+|72|[编辑距离](https://leetcode.com/problems/edit-distance/description/)|[python](./solutions/72.md)|medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[python](./solutions/73.md)|medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)|[python](./solutions/74.md)|medium|
-|75|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[python](./solutions/75.md)|medium|
+|75|[颜色分类](https://leetcode.com/problems/sort-colors/description/)|[python](./solutions/75.md)|medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)|[python](./solutions/76.md)|hard|
-|77|[Combinations](https://leetcode.com/problems/combinations/description/)|[python](./solutions/77.md)|medium|
+|77|[组合](https://leetcode.com/problems/combinations/description/)|[python](./solutions/77.md)|medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)|[python](./solutions/78.md)|medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|[python](./solutions/79.md)|medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[python](./solutions/80.md)|medium|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[python](./solutions/81.md)|medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[python](./solutions/82.md)|medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[python](./solutions/83.md)|easy|
-|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[python](./solutions/84.md)|hard|
+|84|[柱状图中最大的矩形](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[python](./solutions/84.md)|hard|
 |85|[最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)|[python](./solutions/85.md)|hard|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[python](./solutions/86.md)|medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[python](./solutions/88.md)|easy|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/)|[python](./solutions/89.md)|medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[python](./solutions/90.md)|medium|
-|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[python](./solutions/91.md)|medium|
+|91|[解码方法](https://leetcode.com/problems/decode-ways/)|[python](./solutions/91.md)|medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[python](./solutions/92.md)|medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[python](./solutions/93.md)|medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[python](./solutions/94.md)|medium|
-|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[python](./solutions/95.md)|medium|
-|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[python](./solutions/96.md)|medium|
+|95|[不同的二叉搜索树 II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[python](./solutions/95.md)|medium|
+|96|[不同的二叉搜索树](https://leetcode.com/problems/unique-binary-search-trees/)|[python](./solutions/96.md)|medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[python](./solutions/98.md)|medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[python](./solutions/100.md)|easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[python](./solutions/101.md)|easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[python](./solutions/102.md)|medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[python](./solutions/103.md)|medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[python](./solutions/104.md)|easy|
-|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[python](./solutions/105.md)|medium|
-|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[python](./solutions/106.md)|medium|
+|105|[从前序与中序遍历序列构造二叉树](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[python](./solutions/105.md)|medium|
+|106|[从中序与后序遍历序列构造二叉树](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[python](./solutions/106.md)|medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[python](./solutions/107.md)|easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[python](./solutions/108.md)|easy|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[python](./solutions/109.md)|medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[python](./solutions/110.md)|easy|
-|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[python](./solutions/111.md)|easy|
+|111|[二叉树的最小深度](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[python](./solutions/111.md)|easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[python](./solutions/112.md)|easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[python](./solutions/113.md)|medium|
-|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[python](./solutions/114.md)|medium|
+|114|[二叉树展开为链表](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[python](./solutions/114.md)|medium|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[python](./solutions/116.md)|medium|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[python](./solutions/117.md)|medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[python](./solutions/118.md)|easy|
@@ -431,25 +431,26 @@
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[python](./solutions/130.md)|medium|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[python](./solutions/131.md)|medium|
 |132|[分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/)|[python](./solutions/132.md)|hard|
-|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[python](./solutions/133.md)|medium|
-|134|[Gas Station](https://leetcode.com/problems/gas-station/)|[python](./solutions/134.md)|medium|
+|133|[克隆图](https://leetcode.com/problems/clone-graph/)|[python](./solutions/133.md)|medium|
+|134|[加油站](https://leetcode.com/problems/gas-station/)|[python](./solutions/134.md)|medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[python](./solutions/136.md)|easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[python](./solutions/137.md)|medium|
-|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[python](./solutions/138.md)|medium|
+|138|[复制带随机指针的链表](https://leetcode.com/problems/copy-list-with-random-pointer/)|[python](./solutions/138.md)|medium|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[python](./solutions/139.md)|medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|[python](./solutions/140.md)|hard|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[python](./solutions/141.md)|easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[python](./solutions/142.md)|medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[python](./solutions/143.md)|medium|
-|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[python](./solutions/144.md)|medium|
+|144|[二叉树的前序遍历](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[python](./solutions/144.md)|medium|
+|145|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|[python](./solutions/145.md)|hard|
 |146|[LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)|[python](./solutions/146.md)|medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[python](./solutions/147.md)|medium|
-|148|[Sort List](https://leetcode.com/problems/sort-list/)|[python](./solutions/148.md)|medium|
+|148|[排序链表](https://leetcode.com/problems/sort-list/)|[python](./solutions/148.md)|medium|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[python](./solutions/149.md)|hard|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[python](./solutions/150.md)|medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/)|[python](./solutions/151.md)|medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[python](./solutions/152.md)|medium|
-|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[python](./solutions/153.md)|medium|
+|153|[寻找旋转排序数组中的最小值](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[python](./solutions/153.md)|medium|
 |154|[寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[python](./solutions/154.md)|hard|
 |156|[上下翻转二叉树](https://leetcode-cn.com/problems/binary-tree-upside-down/)|[python](./solutions/156.md)|medium|
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters/)|[python](./solutions/159.md)|medium|
@@ -458,7 +459,7 @@
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)|[python](./solutions/162.md)|medium|
 |163|[缺失的区间](https://leetcode-cn.com/problems/missing-ranges/)|[python](./solutions/163.md)|medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[python](./solutions/165.md)|medium|
-|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[python](./solutions/166.md)|medium|
+|166|[分数到小数](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[python](./solutions/166.md)|medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[python](./solutions/167.md)|easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[python](≥/../solutions/168.md)|easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[python](./solutions/169.md)|easy|
@@ -475,39 +476,40 @@
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[python](./solutions/189.md)|easy|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[python](./solutions/199.md)|medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[python](./solutions/200.md)|medium|
-|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[python](./solutions/201.md)|medium|
+|201|[数字范围按位与](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[python](./solutions/201.md)|medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[python](./solutions/202.md)|easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[python](./solutions/203.md)|easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[python](./solutions/204.md)|easy|
-|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[python](./solutions/205.md)|easy|
+|205|[同构字符串](https://leetcode.com/problems/isomorphic-strings/)|[python](./solutions/205.md)|easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[python](./solutions/206.md)|easy|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[python](./solutions/207.md)|medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[python](./solutions/209.md)|medium|
-|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[python](./solutions/210.md)|medium|
-|212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[python](./solutions/212.md)|hard|
+|210|[课程表 II](https://leetcode.com/problems/course-schedule-ii/)|[python](./solutions/210.md)|medium|
+|212|[单词搜索 II](https://leetcode.com/problems/word-search-ii/)|[python](./solutions/212.md)|hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[python](./solutions/213.md)|medium|
-|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[python](./solutions/215.md)|medium|
+|214|[最短回文串](https://leetcode-cn.com/problems/shortest-palindrome/)|[python](./solutions/214.md)|hard|
+|215|[数组中的第K个最大元素](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[python](./solutions/215.md)|medium|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[python](./solutions/216.md)|medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[python](.solutions/217.md)|easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[python](./solutions/219.md)|easy|
-|220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[python](./solutions/220.md)|medium|
-|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[python](./solutions/221.md)|medium|
+|220|[存在重复元素 III](https://leetcode.com/problems/contains-duplicate-iii/)|[python](./solutions/220.md)|medium|
+|221|[最大正方形](https://leetcode.com/problems/maximal-square/)|[python](./solutions/221.md)|medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[python](./solutions/222.md)|medium|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[python](./solutions/223.md)|medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[python](./solutions/226.md)|easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[python](./solutions/227.md)|medium|
-|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[python](./solutions/228.md)|medium|
-|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[python](./solutions/229.md)|medium|
-|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[python](./solutions/230.md)|medium|
+|228|[汇总区间](https://leetcode.com/problems/summary-ranges/)|[python](./solutions/228.md)|medium|
+|229|[求众数 II](https://leetcode.com/problems/majority-element-ii/)|[python](./solutions/229.md)|medium|
+|230|[二叉搜索树中第K小的元素](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[python](./solutions/230.md)|medium|
 |231|[https://leetcode.com/problems/power-of-two/](https://leetcode.com/problems/power-of-two/)|[python](./solutions/231.md)|easy|
-|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[python](./solutions/234.md)|easy|
-|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[python](./solutions/235.md)|easy|
-|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[python](./solutions/236.md)|medium|
+|234|[回文链表](https://leetcode.com/problems/palindrome-linked-list/)|[python](./solutions/234.md)|easy|
+|235|[二叉搜索树的最近公共祖先](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[python](./solutions/235.md)|easy|
+|236|[二叉树的最近公共祖先](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[python](./solutions/236.md)|medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[python](./solutions/237.md)|easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[python](./solutions/238.md)|medium|
 |239|[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)|[python](./solutions/239.md)|hard|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[python](./solutions/240.md)|medium|
-|241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[python](./solutions/241.md)|medium|
+|241|[为运算表达式设计优先级](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[python](./solutions/241.md)|medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python](./solutions/242.md)|easy|
 |243|[最短单词距离](https://leetcode-cn.com/problems/shortest-word-distance/)|[python](./solutions/243.md)|easy|
 |244|[最短单词距离 II](https://leetcode-cn.com/problems/shortest-word-distance-ii/)|[python](./solutions/244.md)|medium|
@@ -553,34 +555,34 @@
 |294|[翻转游戏 II](https://leetcode-cn.com/problems/flip-game-ii/)|[python](./solutions/294.md)|medium|
 |298|[二叉树最长连续序列](https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence/)|[python](./solutions/298.md)|medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[python](./solutions/299.md)|easy|
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[python](./solutions/300.md)|medium|
+|300|[最长上升子序列](https://leetcode.com/problems/longest-increasing-subsequence/)|[python](./solutions/300.md)|medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[python](./solutions/303.md)|easy|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[python](./solutions/304.md)|medium|
-|306|[Additive Number](https://leetcode.com/problems/additive-number/)|[python](./solutions/306.md)|medium|
-|307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[python](./solutions/307.md)|medium|
+|306|[累加数](https://leetcode.com/problems/additive-number/)|[python](./solutions/306.md)|medium|
+|307|[区域和检索 - 数组可修改](https://leetcode.com/problems/range-sum-query-mutable/)|[python](./solutions/307.md)|medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[python](./solutions/309.md)|medium|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[python](./solutions/310.md)|medium|
 |311|[稀疏矩阵的乘法](https://leetcode-cn.com/problems/sparse-matrix-multiplication/)|[python](./solutions/311.md)|medium|
 |312|[戳气球](https://leetcode-cn.com/problems/burst-balloons/)|[python](./solutions/312.md)|hard|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[python](./solutions/313.md)|medium|
 |314|[二叉树的垂直遍历](https://leetcode-cn.com/problems/binary-tree-vertical-order-traversal/)|[python](./solutions/314.md)|medium|
-|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[python](./solutions/315.md)|hard|
-|318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[python](./solutions/318.md)|medium|
-|319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[python](./solutions/319.md)|medium|
+|315|[计算右侧小于当前元素的个数](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[python](./solutions/315.md)|hard|
+|318|[最大单词长度乘积](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[python](./solutions/318.md)|medium|
+|319|[灯泡开关](https://leetcode.com/problems/bulb-switcher/)|[python](./solutions/319.md)|medium|
 |320|[列举单词的全部缩写](https://leetcode-cn.com/problems/generalized-abbreviation/)|[python](./solutions/284.md)|medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[python](./solutions/322.md)|medium|
 |323|[无向图中连通分量的数目](https://leetcode-cn.com/problems/number-of-connected-components-in-an-undirected-graph/)|[python](./solutions/323.md)|medium|
-|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[python](./solutions/324.md)|medium|
+|324|[摆动排序 II](https://leetcode.com/problems/wiggle-sort-ii/)|[python](./solutions/324.md)|medium|
 |325|[和等于 k 的最长子数组长度](https://leetcode-cn.com/problems/maximum-size-subarray-sum-equals-k/)|[python](./solutions/325.md)|medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[python](./solutions/326.md)|easy|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[python](./solutions/328.md)|medium|
-|331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|[python](./solutions/331.md)|medium|
+|331|[验证二叉树的前序序列化](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|[python](./solutions/331.md)|medium|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[python](./solutions/332.md)|medium|
 |333|[最大 BST 子树](https://leetcode-cn.com/problems/largest-bst-subtree/)|[python](./solutions/333.md)|medium|
-|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[python](./solutions/334.md)|medium|
+|334|[递增的三元子序列](https://leetcode.com/problems/increasing-triplet-subsequence/)|[python](./solutions/334.md)|medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[python](./solutions/337.md)|medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[python](./solutions/338.md)|medium|
-|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[python](./solutions/341.md)|medium|
+|341|[扁平化嵌套列表迭代器](https://leetcode.com/problems/flatten-nested-list-iterator/)|[python](./solutions/341.md)|medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[python](./solutions/342.md)|easy|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/)|[python](./solutions/343.md)|medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[python](./solutions/344.md)|easy|
@@ -589,48 +591,50 @@
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[python](./solutions/347.md)|medium|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[python](./solutions/349.md)|easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[python](./solutions/350.md)|easy|
-|357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[python](./solutions/357.md)|medium|
+|357|[计算各个位数不同的数字个数](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[python](./solutions/357.md)|medium|
 |360|[有序转化数组](https://leetcode-cn.com/problems/sort-transformed-array/)|[python](./solutions/360.md)|medium|
 |361|[轰炸敌人](https://leetcode-cn.com/problems/bomb-enemy/)|[python](./solutions/361.md)|medium|
 |363|[矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[python](./solutions/363.md)|hard|
-|365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|[python](./solutions/365.md)|medium|
+|365|[水壶问题](https://leetcode.com/problems/water-and-jug-problem/)|[python](./solutions/365.md)|medium|
 |366|[寻找二叉树的叶子节点](https://leetcode-cn.com/problems/find-leaves-of-binary-tree/)|[python](./solutions/366.md)|medium|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[python](./solutions/367.md)|easy|
-|368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[python](./solutions/368.md)|medium|
+|368|[最大整除子集](https://leetcode.com/problems/largest-divisible-subset/)|[python](./solutions/368.md)|medium|
 |369|[给单链表加一](https://leetcode-cn.com/problems/plus-one-linked-list/)|[python](./solutions/369.md)|medium|
 |370|[区间加法](https://leetcode-cn.com/problems/range-addition/)|[python](./solutions/370.md)|medium|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[python](./solutions/371.md)|easy|
-|372|[Super Pow](https://leetcode.com/problems/super-pow/)|[python](./solutions/372.md)|medium|
-|373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|[python](./solutions/373.md)|medium|
+|372|[超级次方](https://leetcode.com/problems/super-pow/)|[python](./solutions/372.md)|medium|
+|373|[查找和最小的K对数字](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|[python](./solutions/373.md)|medium|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[python](./solutions/374.md)|easy|
-|375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|[python](./solutions/375.md)|medium|
-|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[python](./solutions/376.md)|medium|
+|375|[猜数字大小 II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|[python](./solutions/375.md)|medium|
+|376|[摆动序列](https://leetcode.com/problems/wiggle-subsequence/)|[python](./solutions/376.md)|medium|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[python](./solutions/377.md)|medium|
-|378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[python](./solutions/378.md)|medium|
+|378|[有序矩阵中第K小的元素](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[python](./solutions/378.md)|medium|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[python](./solutions/383.md)|easy|
-|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[python](./solutions/384.md)|medium|
-|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[python](./solutions/386.md)|medium|
+|384|[打乱数组](https://leetcode.com/problems/shuffle-an-array/)|[python](./solutions/384.md)|medium|
+|386|[字典序排数](https://leetcode.com/problems/lexicographical-numbers/)|[python](./solutions/386.md)|medium|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[python](./solutions/387.md)|easy|
-|388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|[python](./solutions/388.md)|medium|
+|388|[文件的最长绝对路径](https://leetcode.com/problems/longest-absolute-file-path/)|[python](./solutions/388.md)|medium|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[python](./solutions/389.md)|easy|
-|390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[python](./solutions/390.md)|medium|
+|390|[消除游戏](https://leetcode.com/problems/elimination-game/)|[python](./solutions/390.md)|medium|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[python](./solutions/392.md)|easy|
-|394|[Decode String](https://leetcode.com/problems/decode-string/)|[python](./solutions/394.md)|medium|
+|394|[字符串解码](https://leetcode.com/problems/decode-string/)|[python](./solutions/394.md)|medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[python](./solutions/395.md)|medium|
-|397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[python](./solutions/397.md)|medium|
-|398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[python](./solutions/398.md)|medium|
-|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[python](./solutions/399.md)|medium|
+|397|[整数替换](https://leetcode.com/problems/integer-replacement/)|[python](./solutions/397.md)|medium|
+|398|[随机数索引](https://leetcode.com/problems/random-pick-index/)|[python](./solutions/398.md)|medium|
+|399|[除法求值](https://leetcode.com/problems/evaluate-division/)|[python](./solutions/399.md)|medium|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[python](./solutions/400.md)|medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python](./solutions/412.md)|easy|
+|437|[路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)|[python](./solutions/437.md)|easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
 |572|[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)|[python](./solutions/572.md)|easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[python](./solutions/695.md)|medium|
-|863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[python](./solutions/863.md)|medium|
+|848|[字母移位](https://leetcode-cn.com/problems/shifting-letters/)|[python](./solutions/848.md)|medium|
+|863|[二叉树中所有距离为 K 的结点](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[python](./solutions/863.md)|medium|
 |907|[子数组的最小值之和](https://leetcode-cn.com/problems/sum-of-subarray-minimums/)|[python](./solutions/907.md)|medium|
 |994|[腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)|[python](./solutions/994.md)|easy|
 |1140|[石子游戏 II](https://leetcode-cn.com/problems/stone-game-ii/)|[python](./solutions/1140.md)|medium|
 |1160|[拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)|[python](./solutions/1160.md)|easy|
-|1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[python](./solutions/1143.md)|medium|
+|1143|[最长公共子序列](https://leetcode.com/problems/longest-common-subsequence/)|[python](./solutions/1143.md)|medium|
 |1262|[可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)|[python](./solutions/1262.md)|medium|
 |5344|[有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[python](./solutions/5344.md)|easy|
 |5345|[通过投票对团队排名](https://leetcode-cn.com/problems/rank-teams-by-votes/)|[python](./solutions/5345.md)|medium|
