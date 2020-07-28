@@ -625,6 +625,7 @@
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[python](./solutions/400.md)|medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python](./solutions/412.md)|easy|
 |437|[路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)|[python](./solutions/437.md)|easy|
+|450|[删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)|[python](./solutions/450.md)|medium|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
 |572|[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)|[python](./solutions/572.md)|easy|
 |683|[K 个空花盆](https://leetcode-cn.com/problems/k-empty-slots/)|[python](./solutions/683.md)|hard|
