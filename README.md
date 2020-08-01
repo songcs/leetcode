@@ -619,6 +619,7 @@
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[python](./solutions/392.md)|easy|
 |394|[字符串解码](https://leetcode.com/problems/decode-string/)|[python](./solutions/394.md)|medium|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[python](./solutions/395.md)|medium|
+|396|[旋转函数](https://leetcode-cn.com/problems/rotate-function/)|[python](./solutions/396.md)|medium|
 |397|[整数替换](https://leetcode.com/problems/integer-replacement/)|[python](./solutions/397.md)|medium|
 |398|[随机数索引](https://leetcode.com/problems/random-pick-index/)|[python](./solutions/398.md)|medium|
 |399|[除法求值](https://leetcode.com/problems/evaluate-division/)|[python](./solutions/399.md)|medium|
