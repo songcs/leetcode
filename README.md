@@ -638,6 +638,7 @@
 |908|[最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)|[python](./solutions/908.md) [cpp](./solutions/908.md)|easy|
 |910|[最小差值 II](https://leetcode-cn.com/problems/smallest-range-ii/)|[python](./solutions/910.md) [cpp](./solutions/910.md)|medium|
 |922|[按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|[python](./solutions/922.md) [cpp](./solutions/922.md)|easy|
+|986|[区间列表的交集](https://leetcode-cn.com/problems/interval-list-intersections/)|[python](./solutions/986.md) [cpp](./solutions/986.md)|medium|
 |994|[腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)|[python](./solutions/994.md)|easy|
 |1140|[石子游戏 II](https://leetcode-cn.com/problems/stone-game-ii/)|[python](./solutions/1140.md)|medium|
 |1160|[拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)|[python](./solutions/1160.md)|easy|
