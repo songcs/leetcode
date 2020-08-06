@@ -635,6 +635,8 @@
 |848|[字母移位](https://leetcode-cn.com/problems/shifting-letters/)|[python](./solutions/848.md)|medium|
 |863|[二叉树中所有距离为 K 的结点](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[python](./solutions/863.md)|medium|
 |907|[子数组的最小值之和](https://leetcode-cn.com/problems/sum-of-subarray-minimums/)|[python](./solutions/907.md)|medium|
+|908|[最小差值 I](https://leetcode-cn.com/problems/smallest-range-i/)|[python](./solutions/908.md) [cpp](./solutions/908.md)|easy|
+|910|[最小差值 II](https://leetcode-cn.com/problems/smallest-range-ii/)|[python](./solutions/910.md) [cpp](./solutions/910.md)|medium|
 |922|[按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|[python](./solutions/922.md) [cpp](./solutions/922.md)|easy|
 |994|[腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)|[python](./solutions/994.md)|easy|
 |1140|[石子游戏 II](https://leetcode-cn.com/problems/stone-game-ii/)|[python](./solutions/1140.md)|medium|
