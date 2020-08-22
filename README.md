@@ -629,6 +629,7 @@
 |450|[删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)|[python](./solutions/450.md)|medium|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|[python](./solutions/454.md)|medium|
 |572|[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)|[python](./solutions/572.md)|easy|
+|673|[最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)|[python](./solutions/673.md)|medium|
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)|[cpp](./solutions/680.md)|easy|
 |683|[K 个空花盆](https://leetcode-cn.com/problems/k-empty-slots/)|[python](./solutions/683.md)|hard|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[python](./solutions/695.md)|medium|
